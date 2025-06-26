@@ -1,0 +1,4502 @@
+[
+  {
+    "link": "https://www.huffpost.com/entry/covid-boosters-uptake-us_n_632d719ee4b087fae6feaac9",
+    "tags": {
+      "public health": 0.9,
+      "vaccination": 0.8,
+      "pandemic management": 0.7,
+      "health policy": 0.6,
+      "medical preparedness": 0.5,
+      "government response": 0.4,
+      "disease prevention": 0.3,
+      "healthcare infrastructure": 0.2,
+      "medical research": 0.1,
+      "global health": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/american-airlines-passenger-banned-flight-attendant-punch-justice-department_n_632e25d3e4b0e247890329fe",
+    "tags": {
+      "air travel conflict": 0.9,
+      "violence on public transportation": 0.8,
+      "aircraft safety": 0.7,
+      "airline customer behavior": 0.6,
+      "flight attendant safety": 0.5,
+      "airline security": 0.4,
+      "travel etiquette": 0.3,
+      "public order": 0.2,
+      "aviation regulation": 0.1,
+      "passenger conduct": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/funniest-tweets-cats-dogs-september-17-23_n_632de332e4b0695c1d81dc02",
+    "tags": {
+      "humorous quotes": 0.9,
+      "humor": 0.8,
+      "animal quotes": 0.8,
+      "animal behavior": 0.7,
+      "comedy": 0.7,
+      "pet ownership": 0.6,
+      "popular culture": 0.6,
+      "social media": 0.5,
+      "online culture": 0.4,
+      "lifestyle": 0.3
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/funniest-parenting-tweets_l_632d7d15e4b0d12b5403e479",
+    "tags": {
+      "parenting struggles": 0.9,
+      "humor in parenting": 0.8,
+      "toddlerhood": 0.7,
+      "childhood memories": 0.6,
+      "parent-child relationships": 0.5,
+      "laughter in adversity": 0.4,
+      "motherhood": 0.3,
+      "fatherhood": 0.2,
+      "family life": 0.1,
+      "humor in family life": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/amy-cooper-loses-discrimination-lawsuit-franklin-templeton_n_632c6463e4b09d8701bd227e",
+    "tags": {
+      "racial tensions": 0.9,
+      "employment discrimination": 0.8,
+      "professional consequences": 0.8,
+      "social justice": 0.7,
+      "public perception": 0.6,
+      "reputation management": 0.5,
+      "workplace culture": 0.4,
+      "racism": 0.3,
+      "discrimination": 0.2,
+      "social media impact": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/belk-worker-found-dead-columbiana-centre-bathroom_n_632c5f8ce4b0572027b0251d",
+    "tags": {
+      "missing persons": 0.9,
+      "death": 0.8,
+      "unexplained death": 0.7,
+      "crime": 0.6,
+      "law enforcement": 0.5,
+      "investigation": 0.4,
+      "mystery": 0.3,
+      "tragedy": 0.2,
+      "community": 0.1,
+      "society": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/reporter-gets-adorable-surprise-from-her-boyfriend-while-working-live-on-tv_n_632ccf43e4b0572027b10d74",
+    "tags": {
+      "surprise and delight": 0.9,
+      "joy and happiness": 0.9,
+      "romance and love": 0.8,
+      "relationships and partnerships": 0.8,
+      "live tv moments": 0.7,
+      "public displays of affection": 0.7,
+      "journalism and media": 0.6,
+      "spontaneity and impulse": 0.6,
+      "emotional reactions": 0.5,
+      "celebrity and fame": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/puerto-rico-water-hurricane-fiona_n_632bdfd8e4b0d12b54014e13",
+    "tags": {
+      "natural disasters": 0.9,
+      "disaster relief": 0.9,
+      "water scarcity": 0.8,
+      "emergency response": 0.7,
+      "humanitarian crisis": 0.6,
+      "infrastructure damage": 0.5,
+      "community resilience": 0.4,
+      "environmental impact": 0.3,
+      "government response": 0.2,
+      "public health": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/mija-documentary-immigration-isabel-castro-interview_n_632329aee4b000d98858dbda",
+    "tags": {
+      "cultural representation": 0.9,
+      "storytelling": 0.9,
+      "personal narrative": 0.8,
+      "social commentary": 0.8,
+      "self-discovery": 0.8,
+      "cultural identity": 0.7,
+      "identity formation": 0.7,
+      "immigration story": 0.6,
+      "multiculturalism": 0.6,
+      "documentary filmmaking": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/biden-un-russian-war-an-affront-to-bodys-charter_n_632ad9e3e4b0bfdf5e1bf5f7",
+    "tags": {
+      "international diplomacy": 0.9,
+      "global politics": 0.8,
+      "global leadership": 0.8,
+      "conflict resolution": 0.7,
+      "humanitarian crisis": 0.6,
+      "international relations": 0.5,
+      "global governance": 0.4,
+      "national security": 0.3,
+      "international law": 0.2,
+      "geopolitics": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/bc-soc-wcup-captains-armbands_n_632b1c98e4b0913a3dd7554a",
+    "tags": {
+      "human rights": 0.9,
+      "discrimination": 0.8,
+      "social activism": 0.8,
+      "social justice": 0.7,
+      "international sports": 0.6,
+      "global politics": 0.5,
+      "freedom of expression": 0.4,
+      "sports and society": 0.3,
+      "moral values": 0.2,
+      "global events": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/man-sets-fire-protest-abe-funeral_n_632ae462e4b07198f0146afd",
+    "tags": {
+      "protest and dissent": 0.9,
+      "political unrest": 0.8,
+      "funeral controversy": 0.7,
+      "leadership criticism": 0.6,
+      "social unrest": 0.5,
+      "free speech": 0.4,
+      "government criticism": 0.3,
+      "public opinion": 0.2,
+      "political polarization": 0.1,
+      "social change": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/fiona-threatens-to-become-category-4-storm-headed-to-bermuda_n_632ad1cae4b07198f0143244",
+    "tags": {
+      "weather forecasting": 0.9,
+      "natural disasters": 0.8,
+      "tropical storms": 0.7,
+      "hurricane risk": 0.6,
+      "weather warning": 0.5,
+      "emergency preparedness": 0.4,
+      "atlantic ocean": 0.3,
+      "coastal regions": 0.2,
+      "storm surge": 0.1,
+      "climate change": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/twitch-streamers-threaten-strike-gambling_n_632a72bce4b0cd3ec2628b20",
+    "tags": {
+      "online safety": 0.9,
+      "online scams": 0.8,
+      "trust and reputation": 0.8,
+      "gaming community": 0.7,
+      "financial loss": 0.6,
+      "online regulation": 0.5,
+      "social responsibility": 0.4,
+      "platform accountability": 0.3,
+      "community impact": 0.2,
+      "digital ethics": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/virginia-thomas-agrees-to-interview-with-jan-6-panel_n_632ba0f2e4b09d8701bbe16d",
+    "tags": {
+      "government accountability": 0.9,
+      "political scandals": 0.8,
+      "conservative politics": 0.7,
+      "judicial ethics": 0.6,
+      "political influence": 0.5,
+      "investigations": 0.4,
+      "government transparency": 0.3,
+      "power dynamics": 0.2,
+      "public trust": 0.1,
+      "ethics in public office": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/valery-polyakov-dies_n_6329d497e4b0913a3dd5336c",
+    "tags": {
+      "space exploration": 0.9,
+      "human spaceflight": 0.9,
+      "record breaking": 0.8,
+      "space travel": 0.8,
+      "human achievement": 0.8,
+      "cosmonauts": 0.7,
+      "scientific discovery": 0.7,
+      "milestones": 0.7,
+      "astronauts": 0.6,
+      "longevity": 0.6
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/hulu-reboot-should-you-watch-it_n_6324a099e4b0eac9f4e18b46",
+    "tags": {
+      "media revival": 0.9,
+      "pop culture commentary": 0.8,
+      "entertainment industry": 0.7,
+      "nostalgia": 0.6,
+      "comedy": 0.5,
+      "television": 0.4,
+      "reboot culture": 0.3,
+      "social commentary": 0.2,
+      "humor": 0.1,
+      "satire": 0.05
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/dodgers-baseball-obit-wills_n_6329feb3e4b07198f0134500",
+    "tags": {
+      "sports legacy": 0.8,
+      "baseball history": 0.7,
+      "athlete passing": 0.6,
+      "world series": 0.5,
+      "los angeles dodgers": 0.4,
+      "base stealing": 0.3,
+      "sports memoriam": 0.2,
+      "american sports": 0.1,
+      "celebrity obituary": 0.1,
+      "legacy impact": 0.05
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/russian-controlled-ukrainian-regions-referendum_n_6329d53ae4b07198f012f023",
+    "tags": {
+      "geopolitics": 0.9,
+      "international relations": 0.8,
+      "conflict resolution": 0.7,
+      "national sovereignty": 0.6,
+      "regional politics": 0.5,
+      "global security": 0.4,
+      "power dynamics": 0.3,
+      "territorial disputes": 0.2,
+      "international conflict": 0.1,
+      "global governance": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/hurricane-fiona-barrels-toward-turks-and-caicos-islands_n_63298597e4b0ed991abcacf9",
+    "tags": {
+      "natural disasters": 0.9,
+      "weather": 0.8,
+      "hurricanes": 0.7,
+      "emergency preparedness": 0.6,
+      "government response": 0.5,
+      "curfews": 0.4,
+      "storm damage": 0.3,
+      "island communities": 0.2,
+      "climate change": 0.1,
+      "disaster relief": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/golden-globes-return-nbc_n_6329f151e4b0ed991abda7f3",
+    "tags": {
+      "award ceremonies": 0.9,
+      "entertainment industry": 0.9,
+      "hollywood": 0.8,
+      "diversity and inclusion": 0.7,
+      "journalism": 0.6,
+      "media industry": 0.5,
+      "celebrity culture": 0.4,
+      "social justice": 0.3,
+      "representation": 0.2,
+      "professional associations": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/biden-us-forces-defend-taiwan-against-china_n_6327ec68e4b0ed021dfe3695",
+    "tags": {
+      "geopolitics": 0.9,
+      "international relations": 0.8,
+      "military defense": 0.7,
+      "national security": 0.6,
+      "global tensions": 0.5,
+      "regional conflicts": 0.4,
+      "government policy": 0.3,
+      "leadership statements": 0.2,
+      "international conflict resolution": 0.1,
+      "global stability": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/hurricane-fiona_n_63281718e4b0ed021dfe4ff0",
+    "tags": {
+      "natural disasters": 0.9,
+      "weather": 0.8,
+      "emergency response": 0.7,
+      "infrastructure damage": 0.6,
+      "disaster relief": 0.5,
+      "environmental impact": 0.4,
+      "humanitarian crisis": 0.3,
+      "government response": 0.2,
+      "community resilience": 0.1,
+      "climate change": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/national-championship-air-races-pilot-killed-crash_n_632860fae4b0ed021dfef140",
+    "tags": {
+      "aviation accidents": 0.9,
+      "air racing": 0.8,
+      "fatalities": 0.7,
+      "pilot safety": 0.6,
+      "aircraft crashes": 0.5,
+      "emergency response": 0.4,
+      "investigation": 0.3,
+      "aviation regulations": 0.2,
+      "human error": 0.1,
+      "disaster response": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/ukraine-festival_n_6327b4a0e4b082746beb52c7",
+    "tags": {
+      "resilience": 0.8,
+      "cultural identity": 0.7,
+      "war and conflict": 0.6,
+      "community": 0.5,
+      "emotional expression": 0.4,
+      "celebration": 0.3,
+      "adaptation": 0.2,
+      "human experience": 0.1,
+      "national identity": 0.1,
+      "hope and optimism": 0.05
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/mark-frerichs-release-us-taliban-prisoner-swap_n_63284bb2e4b000d9885d510b",
+    "tags": {
+      "hostage situation": 0.9,
+      "international relations": 0.8,
+      "prisoner swap": 0.8,
+      "terrorism": 0.7,
+      "war and conflict": 0.7,
+      "kidnapping": 0.6,
+      "geopolitics": 0.6,
+      "humanitarian crisis": 0.5,
+      "national security": 0.5,
+      "global politics": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/2022-wnba-finals_n_6327f56fe4b0eac9f4e3144d",
+    "tags": {
+      "sports": 0.9,
+      "milestone": 0.9,
+      "achievement": 0.8,
+      "history": 0.7,
+      "teamwork": 0.6,
+      "pioneering": 0.5,
+      "recognition": 0.4,
+      "individual achievement": 0.3,
+      "community": 0.2,
+      "celebration": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/queen-elizabeth-ii-world-leaders-funeral_n_63271396e4b046aa02404259",
+    "tags": {
+      "state funerals": 0.9,
+      "international diplomacy": 0.8,
+      "leadership": 0.7,
+      "royalty": 0.6,
+      "mourning": 0.5,
+      "global community": 0.4,
+      "politics": 0.3,
+      "respect": 0.2,
+      "funeral etiquette": 0.1,
+      "international relations": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/james-cameron-fought-studio-avatar_n_63268723e4b046aa02400678",
+    "tags": {
+      "creative control": 0.9,
+      "film industry": 0.8,
+      "artistic vision": 0.8,
+      "collaboration": 0.7,
+      "movie production": 0.7,
+      "competition": 0.6,
+      "innovation": 0.6,
+      "technology": 0.5,
+      "success": 0.5,
+      "professional disagreement": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/french-spiderman-birthday-skyscraper-climb_n_6326a369e4b082746beadd58",
+    "tags": {
+      "urban exploration": 0.9,
+      "adventure": 0.8,
+      "thrill seeking": 0.8,
+      "record breaking": 0.7,
+      "human achievement": 0.6,
+      "skyscraper climbing": 0.5,
+      "risk taking": 0.4,
+      "inspiration": 0.3,
+      "celebrity": 0.2,
+      "milestone": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/europe-britain-royals-biden_n_63276eabe4b046aa02406a13",
+    "tags": {
+      "mourning": 0.9,
+      "royal family": 0.8,
+      "grief": 0.8,
+      "emotional impact": 0.8,
+      "leadership": 0.7,
+      "public figure": 0.7,
+      "funeral": 0.6,
+      "international relations": 0.5,
+      "ceremony": 0.5,
+      "state visit": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/2020-census-falsified-inspector-general-finds_n_63277879e4b046aa02406f26",
+    "tags": {
+      "data integrity": 0.9,
+      "government accountability": 0.8,
+      "public trust": 0.7,
+      "institutional failure": 0.6,
+      "accountability mechanisms": 0.5,
+      "workplace culture": 0.4,
+      "incentivization": 0.3,
+      "government transparency": 0.2,
+      "ethics in public service": 0.1,
+      "consequences of misconduct": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/oil-gas-coal-reserves-database_n_6327a81ae4b0eac9f4e2fd23",
+    "tags": {
+      "energy resources": 0.9,
+      "sustainability": 0.8,
+      "environmental impact": 0.7,
+      "climate change": 0.6,
+      "data transparency": 0.5,
+      "global issues": 0.4,
+      "resource management": 0.3,
+      "public access": 0.2,
+      "information sharing": 0.1,
+      "global governance": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/man-arrested-exposure-assault-queens-mourners-london_n_63254f41e4b0ed021dfd40a6",
+    "tags": {
+      "crime": 0.9,
+      "police": 0.8,
+      "public disturbance": 0.7,
+      "law enforcement": 0.6,
+      "mental health": 0.5,
+      "social norms": 0.4,
+      "royalty": 0.3,
+      "public space": 0.2,
+      "juvenile delinquency": 0.1,
+      "society": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/bc-us-alaska-coastal-storm_n_6325f39fe4b0eac9f4e25cbc",
+    "tags": {
+      "natural disasters": 0.9,
+      "weather forecasting": 0.8,
+      "emergency preparedness": 0.8,
+      "climate change": 0.7,
+      "environmental impact": 0.7,
+      "resilience": 0.6,
+      "community response": 0.6,
+      "adaptation": 0.5,
+      "long-term planning": 0.5,
+      "historical significance": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/tropical-storm-fiona-puerto-rico_n_6325d372e4b0ed021dfd719c",
+    "tags": {
+      "natural disasters": 0.9,
+      "weather forecasting": 0.8,
+      "emergency preparedness": 0.7,
+      "geological hazards": 0.6,
+      "climate change": 0.5,
+      "infrastructure resilience": 0.4,
+      "disaster response": 0.3,
+      "public health": 0.2,
+      "environmental sustainability": 0.1,
+      "community resilience": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/bc-as-pakistan-floods_n_63260f56e4b027aa4066b0f6",
+    "tags": {
+      "disaster response": 0.9,
+      "humanitarian crisis": 0.9,
+      "public health": 0.8,
+      "natural disasters": 0.7,
+      "global health": 0.6,
+      "emergency medicine": 0.5,
+      "flood relief": 0.4,
+      "waterborne diseases": 0.3,
+      "medical response": 0.2,
+      "international aid": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/jackson-water-crisis-privatization_n_6324d6c2e4b0ed021dfd034f",
+    "tags": {
+      "water management": 0.9,
+      "public administration": 0.8,
+      "privatization": 0.7,
+      "infrastructure": 0.6,
+      "government policy": 0.5,
+      "environmental crisis": 0.4,
+      "resource management": 0.3,
+      "community development": 0.2,
+      "sustainability": 0.1,
+      "social justice": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/african-land-snails-trail-of-slime-germany_n_63220b38e4b082746be5de74",
+    "tags": {
+      "unconventional methods": 0.9,
+      "unusual finds": 0.9,
+      "smuggling": 0.8,
+      "illicit goods": 0.8,
+      "bizarre incidents": 0.8,
+      "customs enforcement": 0.7,
+      "law enforcement": 0.7,
+      "effective investigation": 0.7,
+      "giant snails": 0.6,
+      "international trade": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/blade-runner-2099-series-announced_n_63247adfe4b027aa40656cc0",
+    "tags": {
+      "ridley scott": 1.0,
+      "amazon greenlights": 0.5555555555555556,
+      "blade runner": 0.5555555555555556,
+      "limited series": 0.4444444444444445,
+      "the director": 0.4444444444444445,
+      "a writer": 0.4444444444444445,
+      "the 2017 sequel": 0.4444444444444445,
+      "the newest installment": 0.4444444444444445,
+      "the sci-fi franchise": 0.4444444444444445,
+      "amazon": 0.2777777777777778
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/afghan-adjustment-act-congress_n_6324ad6ee4b027aa4065ebef",
+    "tags": {
+      "refugee crisis": 0.9,
+      "international relations": 0.8,
+      "government policy": 0.8,
+      "immigration": 0.7,
+      "political outrage": 0.6,
+      "global politics": 0.6,
+      "conflict resolution": 0.5,
+      "humanitarian aid": 0.5,
+      "national security": 0.4,
+      "geopolitics": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/birmingham-church-bombing_n_63245122e4b027aa4064f978",
+    "tags": {
+      "racism": 0.9,
+      "social justice": 0.9,
+      "violence": 0.8,
+      "justice": 0.7,
+      "civil rights": 0.6,
+      "trauma": 0.5,
+      "social inequality": 0.4,
+      "historical injustice": 0.3,
+      "survivorship": 0.2,
+      "healing": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/bc-us-water-woes-mississippi-racism_n_6324b8c1e4b046aa023f398e",
+    "tags": {
+      "social justice": 0.9,
+      "water scarcity": 0.8,
+      "community development": 0.7,
+      "public health": 0.6,
+      "environmental issues": 0.5,
+      "government response": 0.4,
+      "social inequality": 0.3,
+      "community resilience": 0.2,
+      "public services": 0.1,
+      "disaster relief": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/the-phantom-of-the-opera-to-close-on-broadway-next-year_n_6324ef40e4b082746bea3ce3",
+    "tags": {
+      "theater industry": 0.9,
+      "broadway": 0.8,
+      "entertainment": 0.7,
+      "covid-19 impact": 0.6,
+      "live performance": 0.5,
+      "business of theater": 0.4,
+      "new york city": 0.3,
+      "cultural events": 0.2,
+      "economic trends": 0.1,
+      "change and adaptation": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/capitol-riot-investigation-mark-meadows_n_63235733e4b000d988594a5d",
+    "tags": {
+      "government investigation": 0.9,
+      "political scandal": 0.8,
+      "white house": 0.7,
+      "law enforcement": 0.6,
+      "capitol hill": 0.5,
+      "political crisis": 0.4,
+      "government accountability": 0.3,
+      "political leadership": 0.2,
+      "national security": 0.1,
+      "public trust": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/alex-aster-lightlark-culture-shifters_n_630d2145e4b065bfc4b12692",
+    "tags": {
+      "author platform building": 0.8,
+      "indie publishing": 0.7,
+      "author empowerment": 0.6,
+      "community engagement": 0.5,
+      "creative entrepreneurship": 0.4,
+      "overcoming rejection": 0.3,
+      "author-reader connection": 0.2,
+      "self-promotion": 0.1,
+      "independent authors": 0.1,
+      "online presence": 0.05
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/chick-fil-a-worker-florida-carjacking_n_63232e7ee4b0ed021dfa4d15",
+    "tags": {
+      "heroism": 0.9,
+      "community service": 0.8,
+      "good deeds": 0.8,
+      "bravery": 0.7,
+      "selfless acts": 0.7,
+      "helping others": 0.6,
+      "courage": 0.6,
+      "random acts of kindness": 0.5,
+      "community support": 0.5,
+      "selfless behavior": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/viola-davis-woman-king-heart-attack_n_6322f795e4b000d988585229",
+    "tags": {
+      "physical fitness": 0.9,
+      "acting career": 0.8,
+      "movie production": 0.7,
+      "health concerns": 0.6,
+      "personal growth": 0.5,
+      "women in film": 0.4,
+      "awards and recognition": 0.3,
+      "role preparation": 0.2,
+      "stress and anxiety": 0.1,
+      "female empowerment": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/kim-kardashian-biochemist-james-corden_n_63232a26e4b0ed021dfa43b2",
+    "tags": {
+      "celebrity life": 0.9,
+      "relationships": 0.8,
+      "life choices": 0.8,
+      "personal growth": 0.7,
+      "career change": 0.6,
+      "self-improvement": 0.5,
+      "fame": 0.4,
+      "love": 0.3,
+      "inspiration": 0.2,
+      "motivation": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/podcasters-offer-100k-reward-for-info-on-2pacs-killers_n_63235716e4b046aa023d0e5d",
+    "tags": {
+      "celebrity murder": 0.9,
+      "true crime": 0.8,
+      "unsolved mystery": 0.8,
+      "investigation": 0.7,
+      "crime investigation": 0.7,
+      "celebrity death": 0.7,
+      "reward": 0.6,
+      "true crime podcast": 0.6,
+      "podcasting": 0.5,
+      "justice": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/cardi-b-bronx-school-donation_n_6321cab4e4b046aa023a875c",
+    "tags": {
+      "philanthropy": 0.9,
+      "celebrity giving": 0.8,
+      "education": 0.7,
+      "community development": 0.6,
+      "charitable donations": 0.5,
+      "rap music": 0.4,
+      "bronx culture": 0.3,
+      "youth empowerment": 0.2,
+      "giving back": 0.1,
+      "social responsibility": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/bill-richardson-russia_n_6321a027e4b0eac9f4dcaef1",
+    "tags": {
+      "diplomacy": 0.8,
+      "hostage_negotiations": 0.7,
+      "international_relations": 0.6,
+      "prisoners_of_war": 0.5,
+      "politics": 0.4,
+      "government": 0.3,
+      "diplomatic_efforts": 0.2,
+      "human_rights": 0.1,
+      "geopolitics": 0.1,
+      "international_affairs": 0.05
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/2022-emmys-ratings-record-low_n_63215868e4b000d988560a39",
+    "tags": {
+      "decline": 0.9,
+      "television industry": 0.8,
+      "audience": 0.7,
+      "viewership": 0.7,
+      "record-low": 0.6,
+      "trends": 0.6,
+      "entertainment": 0.5,
+      "awards": 0.5,
+      "competition": 0.4,
+      "decline of traditional media": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/possible-nationwide-rail-strike-amtrak_n_6321547be4b0ed021df76e32",
+    "tags": {
+      "economic disruption": 0.9,
+      "transportation": 0.8,
+      "crisis management": 0.8,
+      "government response": 0.7,
+      "business impact": 0.6,
+      "travel disruption": 0.5,
+      "social impact": 0.4,
+      "policy": 0.3,
+      "national security": 0.2,
+      "infrastructure": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/seth-magaziner-wins-rhode-island-democratic-primary-us-house_n_632118d0e4b082746be47a33",
+    "tags": {
+      "elections": 0.9,
+      "politics": 0.8,
+      "governance": 0.7,
+      "government": 0.6,
+      "democracy": 0.5,
+      "party politics": 0.4,
+      "state politics": 0.3,
+      "local government": 0.2,
+      "leadership": 0.1,
+      "representation": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/bc-us-tiktok-misinformation_n_6321c9b0e4b027aa40614814",
+    "tags": {
+      "information literacy": 0.9,
+      "online disinformation": 0.8,
+      "social media": 0.7,
+      "fake news": 0.6,
+      "digital literacy": 0.5,
+      "media bias": 0.4,
+      "credibility": 0.3,
+      "trust": 0.2,
+      "digital citizenship": 0.1,
+      "critical thinking": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/us-inflation-number-august-2022_n_63207b45e4b0eac9f4db49b6",
+    "tags": {
+      "economic indicators": 0.8,
+      "inflation rate": 0.7,
+      "macroeconomics": 0.6,
+      "price changes": 0.5,
+      "gas prices": 0.4,
+      "consumer spending": 0.3,
+      "market trends": 0.2,
+      "financial news": 0.1,
+      "economic growth": 0.1,
+      "monetary policy": 0.05
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/jean-luc-godard-dies_n_5894d457e4b0c1284f25dc10",
+    "tags": {
+      "cinema": 0.9,
+      "film industry": 0.8,
+      "cultural icon": 0.8,
+      "obituary": 0.7,
+      "french culture": 0.6,
+      "artistic legacy": 0.5,
+      "influence": 0.4,
+      "pioneering work": 0.3,
+      "classic films": 0.2,
+      "directorial style": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/nurses-strike-minnesota_n_6320cb93e4b082746be43386",
+    "tags": {
+      "healthcare industry": 0.9,
+      "patient care": 0.9,
+      "nursing profession": 0.8,
+      "salary negotiations": 0.8,
+      "pandemic impact": 0.8,
+      "work-life balance": 0.7,
+      "understaffing": 0.7,
+      "labor disputes": 0.6,
+      "social justice": 0.6,
+      "professional development": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/biden-cancer-moonshot_n_631fc93be4b027aa405e7ac5",
+    "tags": {
+      "national unity": 0.9,
+      "healthcare": 0.8,
+      "social cohesion": 0.8,
+      "social responsibility": 0.8,
+      "cancer research": 0.7,
+      "community building": 0.7,
+      "public health": 0.6,
+      "medical research": 0.6,
+      "politics": 0.5,
+      "leadership": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/tim-scott-senate-republicans-november-election_n_631ef3a4e4b027aa405d4f5e",
+    "tags": {
+      "party politics": 0.8,
+      "electability": 0.7,
+      "senate elections": 0.6,
+      "republican party": 0.6,
+      "candidate selection": 0.5,
+      "party strategy": 0.5,
+      "senate politics": 0.4,
+      "elections": 0.4,
+      "party leadership": 0.3,
+      "candidate evaluation": 0.3
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/boston-marathon-nonbinary-runners_n_631fade4e4b046aa0237a055",
+    "tags": {
+      "inclusivity": 0.9,
+      "social justice": 0.9,
+      "gender identity": 0.8,
+      "equality": 0.8,
+      "nonbinary": 0.8,
+      "athletics": 0.7,
+      "diversity": 0.7,
+      "sports": 0.6,
+      "progress": 0.6,
+      "innovation": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/anthony-varvaro-dead_n_631f6827e4b027aa405e1899",
+    "tags": {
+      "sports career transition": 0.9,
+      "public service": 0.8,
+      "law enforcement": 0.7,
+      "9/11 remembrance": 0.6,
+      "tragedy": 0.5,
+      "celebrity death": 0.4,
+      "patriotism": 0.3,
+      "career change": 0.2,
+      "memorial": 0.1,
+      "unexpected death": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/democratic-primary-rhode-island-retiring_n_631d6772e4b0eac9f4d81d5a",
+    "tags": {
+      "party_politics": 0.9,
+      "elections": 0.8,
+      "democracy": 0.7,
+      "representation": 0.6,
+      "ideology": 0.5,
+      "local_government": 0.4,
+      "politics": 0.3,
+      "power_struggle": 0.2,
+      "community_involvement": 0.1,
+      "social_change": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/biden-moonshot-cancer-speech_n_631f337ee4b082746be1d2bf",
+    "tags": {
+      "healthcare innovation": 0.9,
+      "cancer research": 0.8,
+      "medical breakthroughs": 0.7,
+      "government initiatives": 0.6,
+      "public health": 0.5,
+      "science and technology": 0.4,
+      "disease detection": 0.3,
+      "medical screening": 0.2,
+      "government policy": 0.1,
+      "social impact": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/ani-liu-art-science_n_631254cbe4b0aefceecba636",
+    "tags": {
+      "feminist art": 0.8,
+      "art and science": 0.7,
+      "female empowerment": 0.6,
+      "motherhood in art": 0.5,
+      "labor and identity": 0.4,
+      "intersectional art": 0.3,
+      "research-based art": 0.2,
+      "confronting social issues": 0.1,
+      "artistic expression": 0.1,
+      "social commentary": 0.05
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/sidney-review-tiff-sidney-poitier_n_631b75f9e4b082746bdf840c",
+    "tags": {
+      "personal legacy": 0.9,
+      "humanization": 0.8,
+      "cultural icon": 0.8,
+      "racial representation": 0.7,
+      "artistic honesty": 0.7,
+      "celebrity portrayal": 0.6,
+      "biographical storytelling": 0.6,
+      "historical context": 0.5,
+      "documentary film": 0.4,
+      "social commentary": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/carlos-alcaraz-us-open-grand-slam-win_n_631e7452e4b027aa405cf51b",
+    "tags": {
+      "youthful achievement": 0.9,
+      "tennis": 0.8,
+      "record breaking": 0.8,
+      "athletic achievement": 0.8,
+      "success": 0.8,
+      "professional sports": 0.7,
+      "competition": 0.7,
+      "milestones": 0.7,
+      "personal growth": 0.6,
+      "career development": 0.6
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/western-wildfires-northern-california_n_631e6562e4b046aa02362f83",
+    "tags": {
+      "natural disasters": 0.9,
+      "wildfires": 0.8,
+      "emergency response": 0.7,
+      "home safety": 0.6,
+      "environmental threats": 0.5,
+      "community resilience": 0.4,
+      "natural resource management": 0.3,
+      "climate change": 0.2,
+      "risk assessment": 0.1,
+      "disaster preparedness": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/sept-11-anniversary-biden_n_631e6071e4b027aa405cf306",
+    "tags": {
+      "national security": 0.9,
+      "terrorism": 0.8,
+      "leadership": 0.7,
+      "memorial": 0.6,
+      "commemoration": 0.5,
+      "patriotism": 0.4,
+      "government": 0.3,
+      "international relations": 0.2,
+      "history": 0.1,
+      "ceremony": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/21-anniversary-911-terror-attacks_n_631df241e4b046aa0236037f",
+    "tags": {
+      "national security": 0.9,
+      "terrorism": 0.8,
+      "global politics": 0.7,
+      "conflict resolution": 0.6,
+      "international relations": 0.6,
+      "historical events": 0.5,
+      "global impact": 0.5,
+      "national identity": 0.4,
+      "memory and remembrance": 0.4,
+      "global governance": 0.3
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/russia-ukraine-war-nuclear-plant-reactor-stopped_n_631dc78de4b082746be0b33c",
+    "tags": {
+      "conflict": 0.9,
+      "war": 0.8,
+      "nuclear power": 0.7,
+      "occupation": 0.6,
+      "energy": 0.5,
+      "international relations": 0.4,
+      "geopolitics": 0.3,
+      "crisis management": 0.2,
+      "global security": 0.1,
+      "energy security": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/payment-processor-visa-to-start-categorizing-sales-at-gun-stores_n_631d11e2e4b0eac9f4d80c91",
+    "tags": {
+      "payment systems": 0.9,
+      "financial regulation": 0.8,
+      "market influence": 0.8,
+      "industry standards": 0.7,
+      "corporate strategy": 0.7,
+      "business expansion": 0.6,
+      "financial technology": 0.6,
+      "compliance": 0.5,
+      "economic pressures": 0.4,
+      "government intervention": 0.3
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/doj-trump-team-propose-candidates-for-special-master-in-mar-a-lago-probe_n_631bed8be4b0ed021df2bd38",
+    "tags": {
+      "government investigation": 0.9,
+      "legal proceedings": 0.8,
+      "judicial system": 0.7,
+      "law enforcement": 0.6,
+      "political scandal": 0.5,
+      "trump administration": 0.4,
+      "justice system": 0.3,
+      "law and order": 0.2,
+      "national politics": 0.1,
+      "government transparency": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/james-cameron-avatar-sequel-footage_n_631d0697e4b046aa02358cbf",
+    "tags": {
+      "movie production": 0.9,
+      "film industry": 0.8,
+      "blockbuster franchise": 0.7,
+      "sequels": 0.6,
+      "director's vision": 0.5,
+      "upcoming projects": 0.4,
+      "cinematic storytelling": 0.3,
+      "fan engagement": 0.2,
+      "entertainment news": 0.1,
+      "event marketing": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/bc-eu-russia-ukraine-war_n_631caa67e4b0ed021df310a8",
+    "tags": {
+      "geopolitics": 0.9,
+      "international relations": 0.8,
+      "military conflicts": 0.8,
+      "ukraine-russia relations": 0.7,
+      "conflict resolution": 0.6,
+      "peacekeeping": 0.5,
+      "national security": 0.4,
+      "global politics": 0.3,
+      "international diplomacy": 0.2,
+      "military strategy": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/bc-us-california-wildfires_n_631c9b62e4b000d988519ee3",
+    "tags": {
+      "weather patterns": 0.9,
+      "natural disasters": 0.8,
+      "climate change": 0.7,
+      "emergency response": 0.6,
+      "infrastructure resilience": 0.5,
+      "public health": 0.4,
+      "environmental impact": 0.3,
+      "community preparedness": 0.2,
+      "risk management": 0.1,
+      "sustainability": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/ukraine-forces-success-counteroffensive-russia_n_631c89cce4b082746be0286c",
+    "tags": {
+      "conflict": 0.9,
+      "war": 0.8,
+      "geopolitics": 0.7,
+      "international relations": 0.6,
+      "military operations": 0.5,
+      "national security": 0.4,
+      "crisis management": 0.3,
+      "humanitarian crisis": 0.2,
+      "global politics": 0.1,
+      "security threats": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/harry-styles-queen-elizabeth-ii-concert-tribute_n_631b4d22e4b027aa405b2ad7",
+    "tags": {
+      "royal tribute": 0.9,
+      "music and entertainment": 0.9,
+      "celebrity performance": 0.8,
+      "respect and admiration": 0.8,
+      "community and applause": 0.8,
+      "pop culture and celebrity news": 0.8,
+      "public service": 0.7,
+      "leadership and service": 0.7,
+      "gratitude and appreciation": 0.7,
+      "historical significance": 0.6
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/r-kelly-derrel-mcdavid-trial_n_631ac084e4b0eac9f4d5ac29",
+    "tags": {
+      "legal proceedings": 0.9,
+      "celebrity scandals": 0.8,
+      "abuse allegations": 0.8,
+      "justice system": 0.8,
+      "testimony": 0.7,
+      "public reputation": 0.7,
+      "courtroom drama": 0.6,
+      "accountability": 0.6,
+      "moral integrity": 0.5,
+      "social impact": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/newspaper-front-pages-mark-the-queens-death_n_631b09e1e4b0eac9f4d64686",
+    "tags": {
+      "mourning": 0.9,
+      "grief": 0.9,
+      "monarchy": 0.8,
+      "history": 0.8,
+      "royalty": 0.7,
+      "newspaper": 0.6,
+      "journalism": 0.5,
+      "celebrity": 0.4,
+      "politics": 0.3,
+      "culture": 0.2
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/jojo-siwa-glsen-gamechanger-award_n_631bae79e4b082746bdfc964",
+    "tags": {
+      "lgbtq advocacy": 0.9,
+      "anti-bullying efforts": 0.8,
+      "youth empowerment": 0.7,
+      "celebrity activism": 0.6,
+      "social justice": 0.5,
+      "inclusion": 0.4,
+      "diversity and inclusion": 0.3,
+      "mental health awareness": 0.2,
+      "role models": 0.1,
+      "philanthropy": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/antonio-guterres-pakistan-floods_n_631b47c7e4b027aa405b2142",
+    "tags": {
+      "climate change": 0.9,
+      "disaster relief": 0.8,
+      "international cooperation": 0.7,
+      "global responsibility": 0.6,
+      "environmental crisis": 0.5,
+      "humanitarian aid": 0.4,
+      "united nations": 0.3,
+      "global governance": 0.2,
+      "sustainable development": 0.1,
+      "international relations": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/clark-county-official-robert-telles-dna-las-vegas-journalist-murder_n_631a51dbe4b000d9884f1cf4",
+    "tags": {
+      "political corruption": 0.9,
+      "murder investigation": 0.8,
+      "journalism": 0.7,
+      "law enforcement": 0.6,
+      "public official": 0.5,
+      "crime": 0.4,
+      "investigative journalism": 0.3,
+      "government accountability": 0.2,
+      "justice system": 0.1,
+      "power abuse": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/michelle-obama-braids-white-house-portrait_n_631a167fe4b0eac9f4d4c000",
+    "tags": {
+      "cultural significance": 0.9,
+      "representation matters": 0.9,
+      "self-expression": 0.9,
+      "feminine identity": 0.8,
+      "empowerment": 0.8,
+      "iconic moments": 0.8,
+      "celebrity culture": 0.7,
+      "inclusivity": 0.7,
+      "beauty standards": 0.6,
+      "social norms": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/norman-reedus-walking-dead-injury_n_6319bc8ce4b046aa02317165",
+    "tags": {
+      "physical trauma": 0.9,
+      "mental health": 0.8,
+      "near death experience": 0.8,
+      "health risks": 0.8,
+      "recovery": 0.7,
+      "vulnerability": 0.7,
+      "emotional distress": 0.7,
+      "fear": 0.6,
+      "professional challenges": 0.6,
+      "resilience": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/michigan-abortion-amendment-supreme-court-november-ballot_n_63191369e4b046aa0230bd0e",
+    "tags": {
+      "reproductive rights": 0.9,
+      "constitutional rights": 0.9,
+      "social justice": 0.8,
+      "healthcare": 0.8,
+      "social change": 0.8,
+      "politics": 0.7,
+      "democracy": 0.7,
+      "law and order": 0.6,
+      "voting rights": 0.6,
+      "government": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/portland-disabled-lawsuit-blocked-sidewalks_n_631a741fe4b046aa0232f7c6",
+    "tags": {
+      "accessibility": 0.9,
+      "disability rights": 0.8,
+      "urban planning": 0.7,
+      "homelessness": 0.6,
+      "social justice": 0.5,
+      "inclusive design": 0.4,
+      "public space": 0.3,
+      "urban infrastructure": 0.2,
+      "community development": 0.1,
+      "social inequality": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/ap-as-vietnam-karaoke-fire_n_6319c41be4b0ed021def2c70",
+    "tags": {
+      "disaster": 0.9,
+      "tragedy": 0.8,
+      "loss of life": 0.8,
+      "fire": 0.7,
+      "accident": 0.6,
+      "emergency": 0.5,
+      "rescue": 0.4,
+      "humanitarian crisis": 0.3,
+      "vulnerability": 0.2,
+      "safety": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/baseball-players-union-joins-afl-cio_n_6318a30ee4b000d9884c1aca",
+    "tags": {
+      "labor union": 0.9,
+      "solidarity": 0.8,
+      "worker rights": 0.8,
+      "collective bargaining": 0.7,
+      "industrial relations": 0.6,
+      "organized labor": 0.6,
+      "worker solidarity": 0.5,
+      "trade unions": 0.5,
+      "social justice": 0.4,
+      "economic equality": 0.3
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/muslims-tv-characters-representation_n_63177ddee4b0536be0493fac",
+    "tags": {
+      "representation in media": 0.9,
+      "stereotyping": 0.8,
+      "diversity and inclusion": 0.8,
+      "media bias": 0.7,
+      "cultural representation": 0.7,
+      "social justice": 0.6,
+      "identity politics": 0.6,
+      "discrimination": 0.5,
+      "racism": 0.5,
+      "societal norms": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/unemployment-benefits-recession_n_6317aa40e4b0faa556c1c634",
+    "tags": {
+      "economic instability": 0.9,
+      "government preparedness": 0.8,
+      "crisis management": 0.8,
+      "unemployment support": 0.7,
+      "pandemic response": 0.6,
+      "state budgeting": 0.5,
+      "fiscal responsibility": 0.4,
+      "social welfare": 0.3,
+      "economic policy": 0.2,
+      "public administration": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/ap-us-austin-airport-power-outage_n_6318c91fe4b046aa02302b96",
+    "tags": {
+      "infrastructure disruptions": 0.9,
+      "transportation delays": 0.8,
+      "emergency response": 0.7,
+      "air travel disruptions": 0.6,
+      "urban congestion": 0.5,
+      "natural disasters": 0.4,
+      "public safety": 0.3,
+      "airport operations": 0.2,
+      "weather-related events": 0.1,
+      "community impact": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/shelling-goes-on-near-ukraine-nuclear-plant-despite-risks_n_6318769ce4b027aa405646dd",
+    "tags": {
+      "nuclear safety": 0.9,
+      "international relations": 0.8,
+      "conflict risk": 0.7,
+      "energy security": 0.6,
+      "global governance": 0.5,
+      "crisis management": 0.4,
+      "diplomacy": 0.3,
+      "geopolitics": 0.2,
+      "risk assessment": 0.1,
+      "international cooperation": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/ap-us-los-angeles-schools-cyberattack_n_63184088e4b046aa022f1bd4",
+    "tags": {
+      "cybersecurity threats": 0.9,
+      "school safety": 0.8,
+      "education technology": 0.7,
+      "vulnerability": 0.6,
+      "risk management": 0.5,
+      "digital risk": 0.4,
+      "information security": 0.3,
+      "school district operations": 0.2,
+      "incident response": 0.1,
+      "digital resilience": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/fairview-fire-california_n_6316e991e4b0536be048168d",
+    "tags": {
+      "natural disasters": 0.9,
+      "california": 0.8,
+      "fire": 0.7,
+      "emergency response": 0.6,
+      "human impact": 0.5,
+      "tragedy": 0.4,
+      "wildfires": 0.3,
+      "disaster management": 0.2,
+      "safety": 0.1,
+      "news": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/kody-clemens-strikes-out-shohei-otani_n_63177ba5e4b0faa556c18078",
+    "tags": {
+      "professional sports": 0.9,
+      "baseball": 0.8,
+      "athletes": 0.7,
+      "family legacy": 0.6,
+      "competition": 0.5,
+      "performance": 0.4,
+      "team dynamics": 0.3,
+      "rookie season": 0.2,
+      "pressure": 0.1,
+      "legacy": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/jackson-water-pressure-back-to-normal_n_631708e6e4b0ed021deaf884",
+    "tags": {
+      "water crisis": 0.9,
+      "public health": 0.8,
+      "infrastructure": 0.7,
+      "emergency management": 0.6,
+      "government response": 0.5,
+      "community impact": 0.4,
+      "environmental issues": 0.3,
+      "public safety": 0.2,
+      "disaster recovery": 0.1,
+      "local governance": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/meta-400-million-irish-fine_n_6316c7d0e4b046aa022d0682",
+    "tags": {
+      "data protection": 0.9,
+      "social media": 0.8,
+      "privacy laws": 0.8,
+      "regulatory compliance": 0.7,
+      "corporate responsibility": 0.6,
+      "digital ethics": 0.6,
+      "children's online safety": 0.5,
+      "business governance": 0.5,
+      "technology regulation": 0.4,
+      "information security": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/uvalde-texas-shooting-back-to-school_n_6316f276e4b0faa556c0635d",
+    "tags": {
+      "trauma and recovery": 0.9,
+      "school safety": 0.8,
+      "community resilience": 0.7,
+      "police-community relations": 0.6,
+      "mental health support": 0.5,
+      "security measures": 0.4,
+      "trust and mistrust": 0.3,
+      "public education": 0.2,
+      "community development": 0.1,
+      "social impact": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/us-russia-to-buy-rockets-artillery-shells-from-north-korea_n_6316ba7fe4b0ed021deaa7c1",
+    "tags": {
+      "international relations": 0.9,
+      "military conflict": 0.8,
+      "geopolitics": 0.8,
+      "arms trade": 0.7,
+      "global politics": 0.7,
+      "national security": 0.6,
+      "military technology": 0.6,
+      "international cooperation": 0.5,
+      "conflict resolution": 0.5,
+      "global economy": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/harry-styles-no-idea-what-im-doing-acting_n_63162147e4b046aa022ca283",
+    "tags": {
+      "uncertainty": 0.8,
+      "identity crisis": 0.8,
+      "self-doubt": 0.7,
+      "career transition": 0.7,
+      "artistic expression": 0.7,
+      "acting": 0.6,
+      "vulnerability": 0.6,
+      "music": 0.5,
+      "confidence": 0.5,
+      "public image": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/michigan-jocelyn-benson-election-midterms_n_63158ff2e4b0682ad3d22355",
+    "tags": {
+      "election interference": 0.9,
+      "voter safety": 0.8,
+      "misinformation": 0.7,
+      "political violence": 0.6,
+      "election day chaos": 0.5,
+      "democracy threats": 0.4,
+      "political polarization": 0.3,
+      "voter intimidation": 0.2,
+      "election security": 0.1,
+      "civic responsibility": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/cloudflare-kiwi-farms_n_6315993ae4b0eac9f4ce0ba1",
+    "tags": {
+      "online censorship": 0.9,
+      "hate speech": 0.8,
+      "digital ethics": 0.7,
+      "internet governance": 0.6,
+      "free speech": 0.5,
+      "online harassment": 0.4,
+      "social responsibility": 0.3,
+      "technology and society": 0.2,
+      "ethics in business": 0.1,
+      "online safety": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/bear-swimming-pool-california_n_63156d04e4b046aa022b6a4c",
+    "tags": {
+      "wildlife encounters": 0.9,
+      "human-animal interactions": 0.9,
+      "homeowner experiences": 0.8,
+      "unconventional neighbors": 0.7,
+      "relaxed atmosphere": 0.6,
+      "california lifestyle": 0.5,
+      "humor in unexpected situations": 0.4,
+      "animal behavior": 0.3,
+      "property ownership": 0.2,
+      "everyday surprises": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/bc-us-texas-school-shooting-teachers_n_631644f7e4b0ed021dea6f3b",
+    "tags": {
+      "trauma": 0.9,
+      "school violence": 0.8,
+      "mass shooting": 0.8,
+      "teacher safety": 0.7,
+      "childhood trauma": 0.6,
+      "resilience": 0.6,
+      "mental health": 0.5,
+      "community impact": 0.4,
+      "gun control": 0.3,
+      "education system": 0.2
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/wisconsin-trump-tim-michels-pitchforks-anti-abortion-anti-gay_n_63142462e4b0682ad3d1a6c3",
+    "tags": {
+      "political activism": 0.9,
+      "social conservatism": 0.8,
+      "political polarization": 0.7,
+      "media criticism": 0.6,
+      "political endorsements": 0.5,
+      "election campaigns": 0.4,
+      "social issues": 0.3,
+      "political extremism": 0.2,
+      "free speech": 0.1,
+      "political violence": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/ap-us-jogger-abducted_n_6314aa89e4b0682ad3d1d6ed",
+    "tags": {
+      "crime investigation": 0.9,
+      "law enforcement": 0.8,
+      "missing persons": 0.7,
+      "abduction": 0.6,
+      "justice system": 0.5,
+      "public safety": 0.4,
+      "community": 0.3,
+      "crime prevention": 0.2,
+      "victims' rights": 0.1,
+      "social order": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/fema-director-jackson-mississippi-water-crisis_n_6314d8bde4b0ed021de8e831",
+    "tags": {
+      "infrastructure": 0.9,
+      "disaster response": 0.8,
+      "environmental justice": 0.7,
+      "public health": 0.6,
+      "water management": 0.5,
+      "community development": 0.4,
+      "racial equity": 0.3,
+      "government response": 0.2,
+      "emergency preparedness": 0.1,
+      "social inequality": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/pakistan-floods-lake-swelling_n_6314c328e4b046aa022b3d8c",
+    "tags": {
+      "natural disasters": 0.9,
+      "environmental issues": 0.8,
+      "humanitarian crisis": 0.8,
+      "weather events": 0.7,
+      "floods": 0.6,
+      "emergency response": 0.5,
+      "climate change": 0.4,
+      "water management": 0.3,
+      "public health": 0.2,
+      "international aid": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/texas-uvalde-school-shooting-trauma-recovery_n_63150074e4b0ed021de8ede6",
+    "tags": {
+      "trauma and recovery": 0.9,
+      "healing and coping": 0.9,
+      "mental health": 0.8,
+      "childhood trauma": 0.7,
+      "mass violence": 0.6,
+      "post-traumatic stress disorder": 0.5,
+      "youth mental health": 0.4,
+      "school safety": 0.3,
+      "community resilience": 0.2,
+      "grief and loss": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/georgia-flash-flooding_n_63151514e4b0eac9f4cdc7d3",
+    "tags": {
+      "natural disasters": 0.9,
+      "weather": 0.8,
+      "emergency response": 0.7,
+      "floods": 0.6,
+      "geographic regions": 0.5,
+      "unpredictability": 0.4,
+      "risk management": 0.3,
+      "community safety": 0.2,
+      "environmental hazards": 0.1,
+      "adaptation": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/the-osbournes-revival-series-announcement_n_6313714ee4b046aa022acc2e",
+    "tags": {
+      "nostalgia": 0.8,
+      "pop culture": 0.8,
+      "family dynamics": 0.7,
+      "television": 0.7,
+      "media revival": 0.7,
+      "reality tv": 0.6,
+      "british culture": 0.6,
+      "family values": 0.6,
+      "entertainment industry": 0.5,
+      "celebrity lifestyle": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/tupelo-mississippi-airplane-walmart_n_6313572be4b0536be045b912",
+    "tags": {
+      "air travel safety": 0.9,
+      "threats and violence": 0.8,
+      "law enforcement": 0.7,
+      "emergency response": 0.6,
+      "public safety": 0.5,
+      "criminal behavior": 0.4,
+      "aviation security": 0.3,
+      "terrorism": 0.2,
+      "disaster preparedness": 0.1,
+      "community protection": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/fuel-leak-ruins-nasa-launch-moon-artemis_n_63137247e4b0eac9f4cd4aa2",
+    "tags": {
+      "space exploration": 0.9,
+      "rocket technology": 0.8,
+      "nasa": 0.7,
+      "artemis program": 0.6,
+      "moon mission": 0.5,
+      "failure": 0.4,
+      "engineering": 0.3,
+      "space agency": 0.2,
+      "launch": 0.1,
+      "disappointment": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/8-migrants-dead-rio-grande-border-patrol_n_6312d71ce4b0536be0458388",
+    "tags": {
+      "humanitarian crisis": 0.9,
+      "migration": 0.8,
+      "tragedy": 0.8,
+      "human rights": 0.8,
+      "border control": 0.7,
+      "risk": 0.7,
+      "vulnerability": 0.7,
+      "desperation": 0.6,
+      "conflict": 0.6,
+      "safety": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/new-england-frozen-yogurt-owner-charged_n_6311972ae4b020c4ffab96b2",
+    "tags": {
+      "privacy violations": 0.9,
+      "business ethics": 0.8,
+      "personal privacy": 0.8,
+      "law enforcement": 0.7,
+      "criminal charges": 0.6,
+      "business regulation": 0.5,
+      "consumer protection": 0.4,
+      "corporate accountability": 0.3,
+      "public safety": 0.2,
+      "trust and transparency": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/pat-cipollone-jan-6-grand-jury_n_6311c619e4b07d96a24d2ae8",
+    "tags": {
+      "government investigation": 0.9,
+      "legal proceedings": 0.8,
+      "white house": 0.7,
+      "criminal justice": 0.6,
+      "testimony": 0.5,
+      "grand jury": 0.4,
+      "political scandal": 0.3,
+      "law enforcement": 0.2,
+      "political leadership": 0.1,
+      "accountability": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/hurricane-danielle-tropical-storm_n_631236a4e4b020c4ffacca40",
+    "tags": {
+      "weather patterns": 0.9,
+      "natural disasters": 0.8,
+      "storm season": 0.7,
+      "hurricanes": 0.6,
+      "oceanic weather": 0.5,
+      "atmospheric phenomena": 0.4,
+      "weather forecasting": 0.3,
+      "climate": 0.2,
+      "natural events": 0.1,
+      "geographic locations": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/putin-snubs-gorbachev-funeral_n_6312499ce4b09e34c39504ef",
+    "tags": {
+      "legacy": 0.9,
+      "political unrest": 0.8,
+      "historical memory": 0.8,
+      "national identity": 0.7,
+      "power dynamics": 0.6,
+      "historical revisionism": 0.5,
+      "international relations": 0.4,
+      "nationalism": 0.3,
+      "conflict resolution": 0.2,
+      "state control": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/nasa-artemis-rocket-launch_n_631265e3e4b0fc6bd23b7e7e",
+    "tags": {
+      "space exploration": 0.9,
+      "rocket technology": 0.8,
+      "space mission": 0.8,
+      "launch delay": 0.7,
+      "engineering": 0.6,
+      "scientific research": 0.6,
+      "innovation": 0.5,
+      "technology development": 0.5,
+      "project management": 0.4,
+      "problem solving": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/us-economy-jobs-report-august_n_6311fc30e4b0aefceecb070e",
+    "tags": {
+      "economic indicators": 0.9,
+      "labor market": 0.8,
+      "employment trends": 0.7,
+      "unemployment rate": 0.6,
+      "job creation": 0.5,
+      "economic growth": 0.4,
+      "job market analysis": 0.3,
+      "business and economy": 0.2,
+      "financial news": 0.1,
+      "market trends": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/pregnant-brandy-bottone-texas-hov-lane-citation_n_6310b3f7e4b088f7423b32d0",
+    "tags": {
+      "ethics": 0.8,
+      "abortion rights": 0.7,
+      "law enforcement": 0.6,
+      "justice system": 0.6,
+      "morality": 0.5,
+      "public policy": 0.4,
+      "human rights": 0.4,
+      "social norms": 0.3,
+      "personal freedom": 0.2,
+      "government regulation": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/freeze-drying-breast-milk_l_630e3263e4b065bfc4b25a89",
+    "tags": {
+      "breastfeeding logistics": 0.9,
+      "parenting hacks": 0.8,
+      "breast milk preservation": 0.8,
+      "milk storage": 0.7,
+      "parenting solutions": 0.7,
+      "time management": 0.6,
+      "family life": 0.6,
+      "parenting challenges": 0.5,
+      "baby care": 0.4,
+      "childcare": 0.3
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/missing-louisiana-nun-found-alive_n_63104d89e4b0dc23bbeeda1f",
+    "tags": {
+      "kidnapping": 0.9,
+      "abduction": 0.8,
+      "human trafficking": 0.7,
+      "crime": 0.6,
+      "safety": 0.5,
+      "security": 0.4,
+      "relief": 0.3,
+      "rescue": 0.2,
+      "justice": 0.1,
+      "vulnerability": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/kkk-plaque-west-point_n_63101115e4b07744a2fd04c9",
+    "tags": {
+      "racism": 0.9,
+      "discrimination": 0.8,
+      "power dynamics": 0.8,
+      "hate group": 0.7,
+      "white supremacy": 0.6,
+      "institutional racism": 0.5,
+      "social justice": 0.4,
+      "equality": 0.3,
+      "politics": 0.2,
+      "history": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/ap-us-bay-area-dead-fish_n_63113130e4b020c4ffab4841",
+    "tags": {
+      "environmental disaster": 0.9,
+      "water pollution": 0.9,
+      "wildlife conservation": 0.8,
+      "ecosystem health": 0.8,
+      "natural disasters": 0.8,
+      "ecological balance": 0.8,
+      "climate change": 0.7,
+      "biodiversity loss": 0.7,
+      "public health concerns": 0.7,
+      "weather phenomena": 0.6
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/lisa-loeb-90s-music-profile_n_630d2734e4b088f74236a534",
+    "tags": {
+      "independent artistry": 0.9,
+      "trailblazing": 0.9,
+      "female empowerment": 0.8,
+      "music industry expectations": 0.7,
+      "nonconformity": 0.6,
+      "pioneering spirit": 0.5,
+      "creative freedom": 0.4,
+      "singer-songwriter culture": 0.3,
+      "gender roles": 0.2,
+      "artistic identity": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/jim-jordan-judiciary-trump-docs-tweet_n_630f124ee4b0dc23bbed2a07",
+    "tags": {
+      "political scandals": 0.9,
+      "government accountability": 0.8,
+      "national security": 0.7,
+      "trump administration": 0.6,
+      "judicial system": 0.5,
+      "government transparency": 0.4,
+      "classified information": 0.3,
+      "political investigations": 0.2,
+      "government oversight": 0.1,
+      "law enforcement": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/mikhail-gorbachev-pizza-hut-ad_n_630e8d48e4b07744a2fb19f3",
+    "tags": {
+      "celebrity endorsements": 0.9,
+      "marketing strategies": 0.8,
+      "business and finance": 0.7,
+      "historical figures": 0.6,
+      "advertising": 0.5,
+      "product placement": 0.4,
+      "public relations": 0.3,
+      "economic systems": 0.2,
+      "leadership": 0.1,
+      "global politics": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/donald-trump-fbi-classified-republicans_n_630f5edfe4b065bfc4b3d2ac",
+    "tags": {
+      "political corruption": 0.9,
+      "government accountability": 0.8,
+      "partisan politics": 0.8,
+      "government transparency": 0.8,
+      "national security": 0.7,
+      "information control": 0.7,
+      "checks and balances": 0.7,
+      "executive power": 0.6,
+      "political polarization": 0.6,
+      "election integrity": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/fox-news-steve-doocy-trump-classified-documents_n_630f8a35e4b07744a2fc6e7d",
+    "tags": {
+      "government transparency": 0.9,
+      "national security": 0.8,
+      "presidential accountability": 0.7,
+      "secrecy": 0.6,
+      "executive power": 0.5,
+      "public trust": 0.4,
+      "leadership ethics": 0.3,
+      "information control": 0.2,
+      "political scandal": 0.1,
+      "power dynamics": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/r-kelly-accusers-testify-trial_n_630f4a3ae4b07744a2fbe613",
+    "tags": {
+      "child abuse": 0.9,
+      "celebrity scandal": 0.8,
+      "justice system": 0.7,
+      "victim support": 0.6,
+      "personal trauma": 0.5,
+      "accountability": 0.4,
+      "power dynamics": 0.3,
+      "social responsibility": 0.2,
+      "public awareness": 0.1,
+      "societal norms": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/stocks-dive-truth-social-spac-merger-digital-world_n_630d93f0e4b0dc23bbeb4140",
+    "tags": {
+      "business failure": 0.9,
+      "financial struggles": 0.9,
+      "social media": 0.8,
+      "delayed project": 0.8,
+      "company crisis": 0.8,
+      "entrepreneurship": 0.7,
+      "leadership challenges": 0.7,
+      "reputation management": 0.7,
+      "merger and acquisition": 0.6,
+      "public figure": 0.6
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/signs-of-teeth-grinding_l_6307b72ee4b0f7df9bb7e34f",
+    "tags": {
+      "sleep disorders": 0.9,
+      "oral health": 0.8,
+      "stress management": 0.7,
+      "self care": 0.6,
+      "anxiety": 0.5,
+      "health habits": 0.4,
+      "wellness": 0.3,
+      "mindfulness": 0.2,
+      "relaxation techniques": 0.1,
+      "quality of life": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/nasa-artemis-moon-mission_n_630d7530e4b063d5e61e0179",
+    "tags": {
+      "space exploration": 0.9,
+      "moon mission": 0.9,
+      "safety protocols": 0.8,
+      "space agency": 0.8,
+      "reliability": 0.8,
+      "mission control": 0.7,
+      "project management": 0.7,
+      "rescheduling": 0.6,
+      "adaptability": 0.6,
+      "uncertainty": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/anthony-ornato-retires-secret-service-trump-adviser_n_630dff01e4b065bfc4b20e38",
+    "tags": {
+      "government accountability": 0.9,
+      "political scandals": 0.8,
+      "white house politics": 0.7,
+      "law enforcement": 0.6,
+      "political corruption": 0.5,
+      "national security": 0.4,
+      "political power struggles": 0.3,
+      "government transparency": 0.2,
+      "political ethics": 0.1,
+      "public trust": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/the-vow-part-two-trailer_n_630e1472e4b063d5e61ed448",
+    "tags": {
+      "cult behavior": 0.9,
+      "abuse of power": 0.9,
+      "power dynamics": 0.8,
+      "social influence": 0.8,
+      "control issues": 0.8,
+      "mental health": 0.7,
+      "psychological manipulation": 0.7,
+      "conformity": 0.7,
+      "trauma": 0.6,
+      "personal freedom": 0.6
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/breastfeeding-depression-dysphoric-milk-ejection-reflex_l_6307a405e4b052615d78f20a",
+    "tags": {
+      "mental health": 0.9,
+      "motherhood": 0.8,
+      "emotional well-being": 0.8,
+      "parenting challenges": 0.7,
+      "breastfeeding": 0.6,
+      "mental illness": 0.6,
+      "emotional regulation": 0.5,
+      "parental stress": 0.5,
+      "body image": 0.4,
+      "self-care": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/rapper-yung-gravy-addison-raes-mom-vmas-red-carpet-debut_n_630cdd9ae4b065bfc4b0be79",
+    "tags": {
+      "celebrity relationships": 0.9,
+      "romance": 0.9,
+      "celebrity news": 0.9,
+      "social media": 0.8,
+      "pop culture": 0.8,
+      "entertainment": 0.8,
+      "celebrity dating": 0.8,
+      "tiktok": 0.7,
+      "social media influencers": 0.7,
+      "internet culture": 0.6
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/us-house-proxy-voting_n_630d0049e4b07744a2f92303",
+    "tags": {
+      "election integrity": 0.8,
+      "political ethics": 0.7,
+      "voting rights": 0.6,
+      "campaign finance": 0.5,
+      "government transparency": 0.4,
+      "representative democracy": 0.3,
+      "technological disruption": 0.2,
+      "accountability": 0.1,
+      "public trust": 0.1,
+      "legislative process": 0.05
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/lindsey-graham-warning-riots-trump-charged-classified-documents_n_630c2ab3e4b07744a2f82df7",
+    "tags": {
+      "political polarization": 0.9,
+      "partisan politics": 0.8,
+      "legal system bias": 0.7,
+      "political corruption": 0.6,
+      "government accountability": 0.5,
+      "power dynamics": 0.4,
+      "social unrest": 0.3,
+      "political unrest": 0.2,
+      "judicial system criticism": 0.1,
+      "political manipulation": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/amber-heard-sister-reacts-to-johnny-depps-vmas-cameo_n_630cf4fae4b088f742365be6",
+    "tags": {
+      "celebrity culture": 0.9,
+      "entertainment industry": 0.8,
+      "pop culture events": 0.7,
+      "celebrity news": 0.6,
+      "social media": 0.5,
+      "virtual appearances": 0.4,
+      "awards ceremonies": 0.3,
+      "music industry": 0.2,
+      "celebrity relationships": 0.1,
+      "internet and technology": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/johnny-depp-surprise-appearance-vmas_n_6306d231e4b035629c01235e",
+    "tags": {
+      "celebrity news": 0.9,
+      "entertainment industry": 0.8,
+      "pop culture": 0.8,
+      "celebrity personal lives": 0.8,
+      "award shows": 0.7,
+      "public appearances": 0.7,
+      "celebrity relationships": 0.7,
+      "court cases": 0.6,
+      "media appearances": 0.6,
+      "social media": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/most-enthusiastic-mtv-vmas-guest-taylor-swift_n_630cc5dfe4b07744a2f8c850",
+    "tags": {
+      "celebrity culture": 0.9,
+      "music industry": 0.8,
+      "entertainment": 0.7,
+      "pop culture": 0.6,
+      "social media": 0.5,
+      "fandom": 0.4,
+      "celebrity appearances": 0.3,
+      "music festivals": 0.2,
+      "female empowerment": 0.1,
+      "youth culture": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/pakistan-flooding-passes-1000-climate-catastrophe_n_630b7ef0e4b063d5e61c54de",
+    "tags": {
+      "natural disasters": 0.9,
+      "human suffering": 0.9,
+      "climate change": 0.8,
+      "humanitarian crisis": 0.8,
+      "environmental issues": 0.8,
+      "emergency response": 0.7,
+      "infrastructure damage": 0.7,
+      "displacement": 0.6,
+      "government response": 0.6,
+      "global health": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/mtv-vmas-2022-red-carpet_n_63065aa5e4b0f7df9bb62993",
+    "tags": {
+      "celebrity culture": 0.9,
+      "glamour": 0.9,
+      "fashion": 0.8,
+      "entertainment": 0.7,
+      "awards": 0.6,
+      "red carpet": 0.5,
+      "pop culture": 0.4,
+      "music": 0.3,
+      "celebrity lifestyle": 0.2,
+      "event coverage": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/nebraska-active-shooter-drill-employees-had-no-idea_n_630adb17e4b063d5e61c0d2c",
+    "tags": {
+      "terrorism": 0.9,
+      "security": 0.8,
+      "surveillance": 0.7,
+      "deception": 0.6,
+      "workplace safety": 0.5,
+      "employee trust": 0.4,
+      "law enforcement": 0.3,
+      "crime": 0.2,
+      "public safety": 0.1,
+      "mental health": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/kash-patel-claim-life-in-danger-fbi-mar-a-lago-affidavit_n_630ac58ae4b07744a2f79726",
+    "tags": {
+      "personal safety": 0.9,
+      "government surveillance": 0.8,
+      "fear of retaliation": 0.8,
+      "political conflict": 0.7,
+      "information control": 0.7,
+      "fear and anxiety": 0.6,
+      "power dynamics": 0.6,
+      "legal system": 0.5,
+      "conspiracy theories": 0.5,
+      "trust issues": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/fake-heiress-trump-mar-a-lago-security-breach_n_630ae229e4b088f74234e48b",
+    "tags": {
+      "national security": 0.9,
+      "government corruption": 0.8,
+      "fake identity": 0.7,
+      "infiltration": 0.6,
+      "resort security": 0.5,
+      "top-secret information": 0.4,
+      "government files": 0.3,
+      "russian influence": 0.2,
+      "fake heiress": 0.1,
+      "personal identity": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/arcade-fire-sexual-misconduct-allegations_n_630b0664e4b0dc23bbe9522f",
+    "tags": {
+      "celebrity scandals": 0.8,
+      "sexual misconduct": 0.7,
+      "public reputation": 0.6,
+      "marriage and relationships": 0.5,
+      "consent and boundaries": 0.4,
+      "media and journalism": 0.3,
+      "music industry": 0.2,
+      "power dynamics": 0.1,
+      "accountability and responsibility": 0.1,
+      "public perception and opinion": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/donald-trump-jr-dick-pic-fbi-serach-affidavit_n_63097b47e4b063d5e61b9a20",
+    "tags": {
+      "celebrity culture": 0.8,
+      "social media": 0.7,
+      "politics": 0.6,
+      "family dynamics": 0.5,
+      "public image": 0.4,
+      "humor": 0.3,
+      "internet culture": 0.2,
+      "controversy": 0.1,
+      "personal relationships": 0.1,
+      "entertainment news": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/trump-attorneys-file-do-over-motion-mar-a-lago-search-fbi_n_6309a543e4b065bfc4af0c30",
+    "tags": {
+      "government investigation": 0.9,
+      "legal proceedings": 0.8,
+      "presidential affairs": 0.7,
+      "national security": 0.6,
+      "executive power": 0.5,
+      "law enforcement": 0.4,
+      "political scandal": 0.3,
+      "legal ethics": 0.2,
+      "judicial system": 0.1,
+      "public trust": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/bc-lt-mexico-missing-students_n_630a2a08e4b0dc23bbe911fc",
+    "tags": {
+      "human rights violations": 0.9,
+      "trauma and suffering": 0.9,
+      "state violence": 0.8,
+      "military abuse": 0.8,
+      "disappearance": 0.7,
+      "government accountability": 0.7,
+      "student protests": 0.6,
+      "social unrest": 0.6,
+      "justice system": 0.5,
+      "corruption": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/fisherman-prehistoric-fossil-nebraska-south-dakota_n_63098509e4b07744a2f73305",
+    "tags": {
+      "unexpected discoveries": 0.9,
+      "surprise and delight": 0.9,
+      "excitement and surprise": 0.9,
+      "prehistoric finds": 0.8,
+      "unusual treasures": 0.8,
+      "fossil discovery": 0.8,
+      "unconventional finds": 0.8,
+      "marine archaeology": 0.7,
+      "natural history": 0.6,
+      "outdoor adventure": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/jared-kushner-chrissy-teigen-nasty-troll-ivanka-trump_n_630958dfe4b088f742346aa3",
+    "tags": {
+      "celebrity feud": 0.9,
+      "social media bullying": 0.9,
+      "social media conflict": 0.8,
+      "personal attack": 0.8,
+      "public image": 0.7,
+      "public perception": 0.7,
+      "political family": 0.6,
+      "social status": 0.6,
+      "family dynamics": 0.5,
+      "feminism": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/nikki-glaser-kimmel-speed-roast_n_630843e8e4b065bfc4ad641a",
+    "tags": {
+      "controversial humor": 0.9,
+      "satire": 0.8,
+      "social commentary": 0.7,
+      "entertainment news": 0.6,
+      "celebrity culture": 0.5,
+      "free speech": 0.4,
+      "political satire": 0.3,
+      "comedy": 0.2,
+      "nsfw content": 0.1,
+      "current events": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/trump-search-warrant-affidavit_n_6307f080e4b0787ab40879b5",
+    "tags": {
+      "national security": 0.9,
+      "government surveillance": 0.8,
+      "executive privilege": 0.7,
+      "intelligence gathering": 0.6,
+      "law enforcement": 0.5,
+      "political scandal": 0.4,
+      "presidential powers": 0.3,
+      "classified information": 0.2,
+      "judicial oversight": 0.1,
+      "executive accountability": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/truth-social-donald-trump-trademark_n_6308560fe4b063d5e61a0d70",
+    "tags": {
+      "disarray": 0.9,
+      "accountability": 0.8,
+      "business ethics": 0.7,
+      "financial crisis": 0.6,
+      "scandal": 0.6,
+      "social media": 0.5,
+      "leadership": 0.4,
+      "corporate governance": 0.3,
+      "financial management": 0.2,
+      "politics": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/canberra-kangaroo-fight_n_6308360fe4b0da54bade11aa",
+    "tags": {
+      "animal behavior": 0.9,
+      "wildlife encounters": 0.9,
+      "wildlife": 0.8,
+      "unusual events": 0.8,
+      "animal aggression": 0.8,
+      "nature reserve": 0.7,
+      "bizarre occurrences": 0.7,
+      "australian culture": 0.6,
+      "conservation": 0.5,
+      "ecosystem": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/us-still-trading-with-russia_n_63073ff9e4b0f7df9bb6ef30",
+    "tags": {
+      "global trade": 0.9,
+      "international relations": 0.8,
+      "economic sanctions": 0.7,
+      "business and politics": 0.6,
+      "supply chain": 0.5,
+      "conflict and war": 0.4,
+      "international business": 0.3,
+      "geopolitics": 0.2,
+      "economic impact": 0.1,
+      "global economy": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/north-dakota-abortion-trigger-ban_n_6307e96de4b01068e14917c0",
+    "tags": {
+      "reproductive rights": 0.9,
+      "abortion": 0.8,
+      "women's health": 0.8,
+      "human rights": 0.8,
+      "judicial system": 0.7,
+      "social justice": 0.7,
+      "law and politics": 0.7,
+      "constitutional law": 0.6,
+      "government intervention": 0.6,
+      "healthcare policy": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/rei-workers-berkeley-store-union_n_6307a5f4e4b0f72c09ded80d",
+    "tags": {
+      "labor rights": 0.9,
+      "worker empowerment": 0.8,
+      "unionization": 0.7,
+      "corporate accountability": 0.6,
+      "social justice": 0.5,
+      "organizing": 0.4,
+      "collective action": 0.3,
+      "worker solidarity": 0.2,
+      "economic inequality": 0.1,
+      "community organizing": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/gov-brian-kemp-fights-subpoena-in-georgia-election-probe_n_63074a8fe4b0f7df9bb705d2",
+    "tags": {
+      "election integrity": 0.9,
+      "political corruption": 0.8,
+      "government investigation": 0.7,
+      "voter suppression": 0.6,
+      "political influence": 0.5,
+      "judicial process": 0.4,
+      "political power struggle": 0.3,
+      "state politics": 0.2,
+      "government accountability": 0.1,
+      "democracy protection": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/japan-police-chief-resign-shinzo-abe_n_6307171ae4b0f72c09ddc7d7",
+    "tags": {
+      "leadership crisis": 0.9,
+      "security failures": 0.8,
+      "government accountability": 0.7,
+      "political assassination": 0.6,
+      "law enforcement": 0.5,
+      "national security": 0.4,
+      "criminal justice": 0.3,
+      "political stability": 0.2,
+      "government transparency": 0.1,
+      "international relations": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/uvalde-shooting-victims-file-lawsuit_n_63058329e4b0e323a259fd79",
+    "tags": {
+      "mass shootings": 0.9,
+      "gun control": 0.8,
+      "law enforcement accountability": 0.7,
+      "victim support": 0.6,
+      "justice system": 0.5,
+      "personal tragedy": 0.4,
+      "community impact": 0.3,
+      "public safety": 0.2,
+      "civil litigation": 0.1,
+      "social justice": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/dan-goldman-declares-victory-new-york-democratic-primary-house-seat_n_630595dae4b0e323a25a020a",
+    "tags": {
+      "political campaigns": 0.9,
+      "election outcomes": 0.8,
+      "political leadership": 0.7,
+      "democracy": 0.6,
+      "political rivalries": 0.5,
+      "government": 0.4,
+      "public service": 0.3,
+      "decision making": 0.2,
+      "uncertainty": 0.1,
+      "accountability": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/markwayne-mullin-wins-oklahoma-repubican-primary-senate_n_63054959e4b0f72c09dbbb56",
+    "tags": {
+      "political party": 0.9,
+      "politics": 0.9,
+      "election": 0.8,
+      "conservatism": 0.8,
+      "government": 0.7,
+      "partisanship": 0.7,
+      "leadership": 0.6,
+      "political identity": 0.6,
+      "power dynamics": 0.5,
+      "social structure": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/crist-friend-desantis-florida_n_63050414e4b052615d7567db",
+    "tags": {
+      "political career": 0.9,
+      "election": 0.8,
+      "governorship": 0.7,
+      "florida politics": 0.6,
+      "party affiliation": 0.5,
+      "personal development": 0.4,
+      "leadership": 0.3,
+      "public service": 0.2,
+      "campaign finance": 0.1,
+      "state government": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/irs-safety-review-conspiracy-theories_n_6305bc35e4b0f7df9bb4f3dc",
+    "tags": {
+      "workplace safety": 0.9,
+      "workplace violence": 0.9,
+      "employee threats": 0.8,
+      "public sector security": 0.8,
+      "institutional security": 0.8,
+      "government agencies": 0.7,
+      "organizational risk management": 0.7,
+      "conspiracy theories": 0.6,
+      "employee well-being": 0.6,
+      "public trust": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/biden-student-loans-borrowers-await-plan_n_6306459ee4b00c150d671219",
+    "tags": {
+      "financial freedom": 0.9,
+      "debt relief": 0.8,
+      "financial security": 0.8,
+      "economic policy": 0.7,
+      "government intervention": 0.6,
+      "personal finance": 0.5,
+      "social justice": 0.4,
+      "political agenda": 0.3,
+      "economic inequality": 0.2,
+      "public policy": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/house-of-the-dragon-premiere-10-million-viewers_n_6304de8de4b035629bfe9101",
+    "tags": {
+      "television": 0.9,
+      "entertainment": 0.8,
+      "pop culture": 0.8,
+      "ratings": 0.7,
+      "premiere": 0.6,
+      "hbo": 0.5,
+      "game of thrones": 0.4,
+      "spinoff": 0.3,
+      "audience": 0.2,
+      "history": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/breonna-taylor-kelly-goodlett-federal-charges_n_63052e67e4b052615d75b77e",
+    "tags": {
+      "law enforcement accountability": 0.9,
+      "police misconduct": 0.8,
+      "police brutality": 0.8,
+      "racial justice": 0.7,
+      "social justice": 0.7,
+      "criminal justice reform": 0.6,
+      "justice system reform": 0.6,
+      "accountability in government": 0.5,
+      "police transparency": 0.4,
+      "racial profiling": 0.3
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/jerry-allison-buddy-holly-drummer-dead-at-82_n_6304ff3ae4b00c150d65387e",
+    "tags": {
+      "music legacy": 0.9,
+      "rock and roll": 0.8,
+      "celebrity passing": 0.7,
+      "rock and roll hall of fame": 0.6,
+      "songwriting": 0.5,
+      "classic songs": 0.4,
+      "musical influence": 0.3,
+      "entertainment industry": 0.2,
+      "memorials and tributes": 0.1,
+      "american music": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/andrew-garfield-method-acting_n_6304fcd2e4b0e323a2594a04",
+    "tags": {
+      "method acting": 0.9,
+      "acting process": 0.9,
+      "acting techniques": 0.8,
+      "role preparation": 0.8,
+      "actor's craft": 0.8,
+      "creative expression": 0.8,
+      "physical transformation": 0.7,
+      "performance art": 0.7,
+      "self-denial": 0.6,
+      "artistic sacrifice": 0.6
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/rusty-bowers-trump-giuiani-gop-election-coup-arizona_n_630405b8e4b0e323a257fcd2",
+    "tags": {
+      "political polarization": 0.9,
+      "election integrity": 0.8,
+      "free and fair elections": 0.8,
+      "authoritarianism": 0.7,
+      "political leadership": 0.6,
+      "voter suppression": 0.5,
+      "partisan politics": 0.4,
+      "democracy": 0.3,
+      "political corruption": 0.2,
+      "government accountability": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/after-delay-biden-readies-student-loan-help-payment-pause_n_63054fc1e4b00c150d65c210",
+    "tags": {
+      "economic policy": 0.9,
+      "government intervention": 0.8,
+      "financial assistance": 0.7,
+      "student loans": 0.6,
+      "public policy": 0.5,
+      "administrative transparency": 0.4,
+      "government communication": 0.3,
+      "financial relief": 0.2,
+      "bureaucratic decision making": 0.1,
+      "social welfare": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/child-care-paid-leave-inflation-reduction-act_n_630197cae4b0f7df9bb1045e",
+    "tags": {
+      "legislative process": 0.9,
+      "policy implementation": 0.8,
+      "governmental failure": 0.7,
+      "social welfare": 0.6,
+      "public policy": 0.5,
+      "democratic politics": 0.4,
+      "social justice": 0.3,
+      "governmental responsibility": 0.2,
+      "citizen engagement": 0.1,
+      "disappointment": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/prince-andrew-satirical-musical_n_63037be8e4b035629bfcbe26",
+    "tags": {
+      "royal scandal": 0.9,
+      "satire": 0.8,
+      "entertainment": 0.7,
+      "british culture": 0.6,
+      "celebrity": 0.5,
+      "music": 0.4,
+      "comedy": 0.3,
+      "controversy": 0.2,
+      "public figure": 0.1,
+      "social commentary": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/columbus-teachers-union-on-strike_n_6303c25ce4b052615d73b2bd",
+    "tags": {
+      "community response": 0.9,
+      "workplace conflict": 0.8,
+      "labor dispute": 0.7,
+      "education system": 0.6,
+      "social responsibility": 0.6,
+      "public service disruption": 0.5,
+      "community impact": 0.4,
+      "social change": 0.3,
+      "organizational dynamics": 0.2,
+      "economic influence": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/russia-ukraine-war-deaths_n_6303a700e4b0e323a2578a86",
+    "tags": {
+      "war": 0.9,
+      "conflict": 0.8,
+      "humanitarian crisis": 0.8,
+      "military casualties": 0.7,
+      "international relations": 0.6,
+      "geopolitics": 0.5,
+      "human cost": 0.4,
+      "violence": 0.3,
+      "national security": 0.2,
+      "global politics": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/jennifer-granholm-gas-prices_n_630370e2e4b035629bfca7ed",
+    "tags": {
+      "energy market fluctuations": 0.9,
+      "global events impact on economy": 0.8,
+      "oil production and supply": 0.7,
+      "economic uncertainty": 0.6,
+      "energy security": 0.5,
+      "government policy and regulation": 0.4,
+      "market trends and predictions": 0.3,
+      "economic forecasting": 0.2,
+      "resource management": 0.1,
+      "public policy and governance": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/police-file-terrorism-charges-against-pakistans-ex-premier-imran-khan_n_63034c88e4b052615d730757",
+    "tags": {
+      "political corruption": 0.9,
+      "law enforcement": 0.8,
+      "government accountability": 0.7,
+      "political power struggle": 0.6,
+      "national security": 0.5,
+      "international relations": 0.4,
+      "political leadership": 0.3,
+      "judicial system": 0.2,
+      "social unrest": 0.1,
+      "global politics": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/united-states-minneapolis-teacher-layoff-policy_n_63027570e4b0f7df9bb15459",
+    "tags": {
+      "diversity and inclusion": 0.9,
+      "social justice": 0.9,
+      "racial equity": 0.9,
+      "education reform": 0.8,
+      "teacher empowerment": 0.8,
+      "labor relations": 0.7,
+      "collective bargaining": 0.7,
+      "workplace discrimination": 0.6,
+      "professional development": 0.5,
+      "community engagement": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/native-hawaiians-sacred-mauna-kea-summit-astronomers_n_6301aa27e4b0e323a25633e6",
+    "tags": {
+      "cultural preservation": 0.9,
+      "indigenous rights": 0.8,
+      "sacred spaces": 0.8,
+      "conflict resolution": 0.8,
+      "scientific research": 0.7,
+      "stakeholder engagement": 0.7,
+      "native american issues": 0.6,
+      "cultural sensitivity": 0.6,
+      "environmental conservation": 0.5,
+      "community involvement": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/lost-wedding-ring-found-new-hampshire-beach_n_63025fc6e4b035629bfbeba5",
+    "tags": {
+      "community service": 0.9,
+      "good deed": 0.8,
+      "kindness": 0.7,
+      "volunteerism": 0.6,
+      "lost and found": 0.5,
+      "recovery": 0.4,
+      "helping others": 0.3,
+      "random acts of kindness": 0.2,
+      "generosity": 0.1,
+      "altruism": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/leon-vitali-stanley-kubricks-right-hand-man-dies-at-74_n_6302933fe4b0f72c09d87216",
+    "tags": {
+      "film industry": 0.9,
+      "celebrity death": 0.8,
+      "collaboration": 0.7,
+      "artistic partnership": 0.6,
+      "legendary directors": 0.5,
+      "behind-the-scenes": 0.4,
+      "actor's life": 0.3,
+      "influence": 0.2,
+      "mentorship": 0.1,
+      "legacy": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/dragon-ball-super-bests-beast-at-box-office-with-201m_n_63026acfe4b052615d72825f",
+    "tags": {
+      "entertainment industry": 0.9,
+      "box office performance": 0.8,
+      "comparative analysis": 0.7,
+      "movie reviews": 0.6,
+      "pop culture": 0.5,
+      "competition": 0.4,
+      "financial performance": 0.3,
+      "action movies": 0.2,
+      "anime and manga": 0.1,
+      "celebrity news": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/parkland-school-nikolas-cruz-defense-case_n_630264c1e4b0f72c09d8626e",
+    "tags": {
+      "mass shootings": 0.9,
+      "capital punishment": 0.8,
+      "crime and punishment": 0.7,
+      "justice system": 0.6,
+      "mental health": 0.5,
+      "school violence": 0.4,
+      "trials and tribunals": 0.3,
+      "law and order": 0.2,
+      "criminal responsibility": 0.1,
+      "social justice": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/bc-us-voting-rights-georgia_n_6300ef0ae4b052615d720564",
+    "tags": {
+      "voting rights": 0.9,
+      "voter suppression": 0.9,
+      "election interference": 0.8,
+      "democracy": 0.8,
+      "access to resources": 0.8,
+      "civil liberties": 0.8,
+      "social justice": 0.7,
+      "political activism": 0.7,
+      "human rights": 0.6,
+      "government regulation": 0.6
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/trans-woman-parent-japanese-court_n_630066e2e4b00c150d61b12d",
+    "tags": {
+      "gender identity": 0.9,
+      "transgender rights": 0.9,
+      "parental rights": 0.8,
+      "legal recognition": 0.7,
+      "family law": 0.6,
+      "gender expression": 0.5,
+      "legal system": 0.4,
+      "social justice": 0.3,
+      "human rights": 0.2,
+      "identity politics": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/dorli-rainey-symbol-of-occupy-movement-dies-at-95_n_63015837e4b00c150d620b37",
+    "tags": {
+      "social justice": 0.9,
+      "activism": 0.8,
+      "racial equality": 0.8,
+      "community development": 0.7,
+      "protest": 0.6,
+      "human rights": 0.6,
+      "advocacy": 0.5,
+      "civil rights": 0.5,
+      "non-violent resistance": 0.4,
+      "legacy": 0.3
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/pence-says-did-not-take-classified-material_n_6300e9ece4b0f7df9bb0d29a",
+    "tags": {
+      "public accountability": 0.9,
+      "political ethics": 0.9,
+      "political scandals": 0.8,
+      "government accountability": 0.8,
+      "government transparency": 0.7,
+      "political leadership": 0.7,
+      "national security": 0.6,
+      "information classification": 0.6,
+      "executive privilege": 0.5,
+      "law enforcement": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/wendys-lettuce-e-coli_n_6300e701e4b0f72c09d7e594",
+    "tags": {
+      "food safety": 0.9,
+      "health risks": 0.8,
+      "food contamination": 0.8,
+      "restaurant operations": 0.7,
+      "customer illness": 0.7,
+      "supply chain issues": 0.6,
+      "public health": 0.6,
+      "regulatory compliance": 0.5,
+      "business reputation": 0.5,
+      "quality control": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/video-alligator-attacking-florida-man-lake_n_62ff02cae4b071ea958e4f55",
+    "tags": {
+      "wildlife attacks": 0.9,
+      "unpredictable wildlife": 0.9,
+      "wildlife threats": 0.9,
+      "animal violence": 0.8,
+      "dangers of nature": 0.8,
+      "animal aggression": 0.8,
+      "nature's dangers": 0.8,
+      "florida wildlife": 0.7,
+      "wildlife encounters": 0.7,
+      "florida news": 0.6
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/chest-pain-heart-signs-symptoms_l_6283e7aee4b003ed29678afa",
+    "tags": {
+      "health concerns": 0.9,
+      "symptom recognition": 0.9,
+      "medical diagnosis": 0.8,
+      "cardiovascular issues": 0.8,
+      "medical urgency": 0.8,
+      "personal health": 0.8,
+      "disease detection": 0.8,
+      "self assessment": 0.7,
+      "doctor-patient interaction": 0.7,
+      "wellness awareness": 0.7
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/mitch-mcconnell-gop-senate-midterms_n_62ff545de4b071ea958ebfd3",
+    "tags": {
+      "political party dynamics": 0.9,
+      "political power dynamics": 0.9,
+      "election forecast": 0.8,
+      "candidate quality": 0.7,
+      "political leadership": 0.6,
+      "political strategy": 0.5,
+      "partisan politics": 0.4,
+      "government control": 0.3,
+      "political analysis": 0.2,
+      "election outlook": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/vanessa-bryant-testimony-kobe-bryant-crash-photos_n_62fff99be4b00c150d617da3",
+    "tags": {
+      "grief": 0.9,
+      "trauma": 0.8,
+      "fear": 0.7,
+      "mental health": 0.6,
+      "public scrutiny": 0.5,
+      "loss": 0.4,
+      "memory": 0.3,
+      "anxiety": 0.2,
+      "suffering": 0.1,
+      "resilience": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/young-thug-denied-bond-gunna-gang-case_n_62ff15eae4b071ea958e5cee",
+    "tags": {
+      "justice system": 0.8,
+      "celebrity news": 0.7,
+      "crime and punishment": 0.6,
+      "music industry": 0.5,
+      "law enforcement": 0.4,
+      "entertainment news": 0.3,
+      "social deviance": 0.2,
+      "famous people": 0.1,
+      "court proceedings": 0.1,
+      "law and order": 0.05
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/media-to-ask-judge-to-release-trump-search-warrant-affidavit_n_62fdf830e4b0638948305107",
+    "tags": {
+      "government transparency": 0.9,
+      "public interest": 0.8,
+      "law enforcement": 0.7,
+      "political scandals": 0.6,
+      "freedom of information": 0.5,
+      "judicial system": 0.4,
+      "government accountability": 0.3,
+      "media freedom": 0.2,
+      "political power": 0.1,
+      "national security": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/state-dept-saudi-woman-sentence-twitter_n_62fe1273e4b0a85a819925e6",
+    "tags": {
+      "freedom of speech": 0.9,
+      "human rights violations": 0.8,
+      "political repression": 0.8,
+      "political dissent": 0.8,
+      "social media censorship": 0.7,
+      "censorship": 0.7,
+      "government surveillance": 0.6,
+      "women's rights": 0.6,
+      "digital activism": 0.5,
+      "international relations": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/monkeybox-lgbtq-pride-events_n_62fea739e4b0c8c57f5a4cc8",
+    "tags": {
+      "healthcare access": 0.9,
+      "lgbtq rights": 0.8,
+      "public health": 0.7,
+      "vaccination": 0.6,
+      "community events": 0.5,
+      "social justice": 0.4,
+      "mental health": 0.3,
+      "government support": 0.2,
+      "pride celebrations": 0.1,
+      "disease prevention": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/trump-org-cfo-to-plead-guilty-testify-against-company_n_62fd866ce4b0a85a8198706b",
+    "tags": {
+      "corporate crime": 0.9,
+      "financial fraud": 0.8,
+      "white collar crime": 0.7,
+      "business ethics": 0.6,
+      "accounting irregularities": 0.5,
+      "organizational misconduct": 0.4,
+      "executive accountability": 0.3,
+      "financial regulation": 0.2,
+      "corporate governance": 0.1,
+      "law enforcement": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/bc-fbn-browns-watson-settlement_n_62fe63d1e4b0f48a020547b2",
+    "tags": {
+      "professional athlete controversy": 0.8,
+      "sexual misconduct allegations": 0.7,
+      "nfl discipline": 0.6,
+      "sports ethics": 0.5,
+      "celebrity scandal": 0.4,
+      "player conduct": 0.3,
+      "accountability in sports": 0.2,
+      "social justice": 0.1,
+      "public perception": 0.05,
+      "sports governance": 0.01
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/mike-tyson-hulu-authorized-biopics_n_62fbb417e4b077bb77a63183",
+    "tags": {
+      "celebrity culture": 0.9,
+      "truth in media": 0.9,
+      "biography": 0.8,
+      "authenticity": 0.7,
+      "information control": 0.6,
+      "media representation": 0.5,
+      "personal image": 0.4,
+      "public perception": 0.3,
+      "reality distortion": 0.2,
+      "power dynamics": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/deshaun-watson-browns-nfl_n_62fd2a47e4b0a85a81981a14",
+    "tags": {
+      "sports governance": 0.8,
+      "labor negotiations": 0.7,
+      "professional athletes": 0.6,
+      "discipline and punishment": 0.5,
+      "settlement agreements": 0.4,
+      "conflict resolution": 0.3,
+      "professional sports": 0.2,
+      "legal proceedings": 0.1,
+      "player conduct": 0.1,
+      "organizational behavior": 0.05
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/cdc-rochelle-walensky-reset_n_62fd1241e4b0f48a02037714",
+    "tags": {
+      "public health reform": 0.9,
+      "government overhaul": 0.8,
+      "crisis management": 0.7,
+      "accountability": 0.6,
+      "healthcare system improvement": 0.5,
+      "leadership change": 0.4,
+      "organizational restructuring": 0.3,
+      "public trust": 0.2,
+      "health emergency response": 0.1,
+      "transparency": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/general-motors-seatbelt-issue-recall_n_62fc7a97e4b0f48a02027959",
+    "tags": {
+      "product safety": 0.9,
+      "automotive industry": 0.8,
+      "recall": 0.7,
+      "consumer protection": 0.6,
+      "vehicle manufacturing": 0.5,
+      "quality control": 0.4,
+      "risk management": 0.3,
+      "transportation safety": 0.2,
+      "corporate responsibility": 0.1,
+      "public health": 0.05
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/2022-election-planned-parenthood_n_62fcb4c9e4b071ea958b347c",
+    "tags": {
+      "reproductive rights": 0.9,
+      "elections": 0.8,
+      "healthcare": 0.7,
+      "abortion": 0.6,
+      "political spending": 0.5,
+      "midterm elections": 0.4,
+      "social justice": 0.3,
+      "women's health": 0.2,
+      "political activism": 0.1,
+      "social policy": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/former-congressman-arrested-fraud-charges_n_62fc4a8ee4b0c8c57f56fc2d",
+    "tags": {
+      "political corruption": 0.9,
+      "government accountability": 0.8,
+      "criminal justice": 0.7,
+      "public trust": 0.6,
+      "ethics in politics": 0.5,
+      "fraudulent behavior": 0.4,
+      "law enforcement": 0.3,
+      "political scandals": 0.2,
+      "government transparency": 0.1,
+      "accountability in government": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/syria-denies-it-is-holding-american-journalist-austin-tice_n_62fcb9dae4b06389482ea692",
+    "tags": {
+      "hostage situation": 0.9,
+      "international relations": 0.8,
+      "government accountability": 0.7,
+      "journalism": 0.6,
+      "human rights": 0.5,
+      "conflict resolution": 0.4,
+      "political crisis": 0.3,
+      "international politics": 0.2,
+      "freedom of speech": 0.1,
+      "global affairs": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/nba-election-day-games_n_62fbd822e4b0a85a81969b0b",
+    "tags": {
+      "voter suppression": 0.9,
+      "democracy": 0.8,
+      "voting rights": 0.8,
+      "political participation": 0.8,
+      "election day": 0.7,
+      "civic engagement": 0.7,
+      "social justice": 0.6,
+      "citizenship": 0.6,
+      "inequality": 0.5,
+      "access to information": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/monkeypox-dog-france_n_62fb405ee4b0a85a8195999e",
+    "tags": {
+      "public health": 0.9,
+      "animal health": 0.8,
+      "disease transmission": 0.8,
+      "monkeypox": 0.7,
+      "zoonosis": 0.6,
+      "infection control": 0.5,
+      "research": 0.4,
+      "virology": 0.3,
+      "global health": 0.2,
+      "epidemiology": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/denver-broncos-diversity-nfl_n_62fae8f7e4b0f48a0200e812",
+    "tags": {
+      "diversity in sports": 0.9,
+      "minority ownership": 0.8,
+      "racial equality": 0.8,
+      "social justice": 0.8,
+      "nfl": 0.7,
+      "inclusion": 0.7,
+      "sports business": 0.6,
+      "professional sports": 0.6,
+      "corporate social responsibility": 0.5,
+      "business and society": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/bc-eu-britain-scotland-period-products_n_62fbd14de4b077bb77a6591d",
+    "tags": {
+      "accessibility": 0.9,
+      "public services": 0.8,
+      "healthcare": 0.7,
+      "education": 0.6,
+      "social welfare": 0.5,
+      "human rights": 0.4,
+      "gender equality": 0.3,
+      "public policy": 0.2,
+      "social justice": 0.1,
+      "community development": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/tiger-woods-golf-player-meeting_n_62fbeafae4b077bb77a6703c",
+    "tags": {
+      "professional sports": 0.9,
+      "golf": 0.8,
+      "tiger woods": 0.7,
+      "pga tour": 0.6,
+      "competition": 0.5,
+      "event planning": 0.4,
+      "business": 0.3,
+      "sports industry": 0.2,
+      "news": 0.1,
+      "current events": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/afghanistan-taliban-year-anniversary-poverty-womens-no-rights_n_62fb0efbe4b077bb77a53c99",
+    "tags": {
+      "conflict resolution": 0.9,
+      "humanitarian crisis": 0.9,
+      "human rights": 0.8,
+      "women's empowerment": 0.8,
+      "poverty reduction": 0.7,
+      "economic crisis": 0.7,
+      "social inequality": 0.6,
+      "social justice": 0.6,
+      "global politics": 0.5,
+      "international relations": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/georgia-election-investigation-lindsey-graham_n_62fa5353e4b0da517efa33cc",
+    "tags": {
+      "government accountability": 0.9,
+      "constitutional law": 0.8,
+      "legislative immunity": 0.7,
+      "judicial oversight": 0.6,
+      "election integrity": 0.5,
+      "political accountability": 0.4,
+      "separation of powers": 0.3,
+      "legal proceedings": 0.2,
+      "government transparency": 0.1,
+      "checks and balances": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/robyn-griggs-dead-actor_n_62f9a1c5e4b0da517ef9a053",
+    "tags": {
+      "celebrity death": 0.9,
+      "mortality": 0.9,
+      "cancer diagnosis": 0.8,
+      "soap opera": 0.7,
+      "acting career": 0.6,
+      "personal struggle": 0.5,
+      "health issues": 0.4,
+      "tribute": 0.3,
+      "legacy": 0.2,
+      "entertainment industry": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/six-flags-great-america-shooting-chicago_n_62f9e04ae4b0ab35e0b4353a",
+    "tags": {
+      "violence": 0.9,
+      "public safety": 0.8,
+      "crime": 0.8,
+      "accidents": 0.7,
+      "injuries": 0.7,
+      "parks and recreation": 0.6,
+      "emergency response": 0.6,
+      "illinois": 0.5,
+      "chicago": 0.4,
+      "community": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/iran-denies-involvement-but-justifies-salman-rushdie-attack_n_62fa275ee4b095e78881df24",
+    "tags": {
+      "political violence": 0.9,
+      "religious extremism": 0.8,
+      "free speech": 0.7,
+      "authoritarianism": 0.6,
+      "terrorism": 0.5,
+      "censorship": 0.4,
+      "political ideology": 0.3,
+      "global politics": 0.2,
+      "freedom of expression": 0.1,
+      "international relations": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/lawyers-appeal-brittney-griners-russian-prison-sentence_n_62fa1bb7e4b045e6f6aef6fb",
+    "tags": {
+      "justice system": 0.9,
+      "prison sentence": 0.8,
+      "human rights": 0.7,
+      "international relations": 0.6,
+      "sports and law": 0.5,
+      "punishment": 0.4,
+      "fairness": 0.3,
+      "law enforcement": 0.2,
+      "diplomacy": 0.1,
+      "humanitarian crisis": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/r-kelly-federal-trial-chicago_n_62fa152ae4b0526eaeec1a87",
+    "tags": {
+      "justice": 0.9,
+      "law": 0.8,
+      "crime": 0.7,
+      "celebrity": 0.6,
+      "court": 0.5,
+      "trial": 0.4,
+      "morality": 0.3,
+      "power": 0.2,
+      "accountability": 0.1,
+      "society": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/israel-palestinian-gunman-jerusalem-shooting_n_62f8e0a5e4b0288b61a569f9",
+    "tags": {
+      "conflict": 0.9,
+      "violence": 0.8,
+      "crisis": 0.8,
+      "geopolitics": 0.7,
+      "terrorism": 0.6,
+      "middle east": 0.5,
+      "politics": 0.4,
+      "security": 0.3,
+      "human rights": 0.2,
+      "international relations": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/bullet-train-repeats-no-1-top-gun-flies-back-up-ranks_n_62f93c87e4b045e6f6ae80ea",
+    "tags": {
+      "box office performance": 0.9,
+      "movie industry": 0.8,
+      "action films": 0.7,
+      "brad pitt": 0.6,
+      "film rankings": 0.5,
+      "ticket sales": 0.4,
+      "weekend box office": 0.3,
+      "entertainment news": 0.2,
+      "film distribution": 0.1,
+      "cinema trends": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/egypt-cairo-coptic-church-fire_n_62f8deade4b045e6f6ae64b6",
+    "tags": {
+      "tragedy": 0.9,
+      "disaster": 0.9,
+      "religion": 0.8,
+      "violence": 0.7,
+      "humanitarian crisis": 0.6,
+      "egypt": 0.5,
+      "middle east": 0.4,
+      "conflict": 0.3,
+      "safety": 0.2,
+      "community": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/possible-meteor-explosive-boom-utah_n_62f85394e4b0da517ef92777",
+    "tags": {
+      "space events": 0.9,
+      "natural disasters": 0.8,
+      "meteorology": 0.7,
+      "unusual occurrences": 0.6,
+      "weather phenomena": 0.5,
+      "geological events": 0.4,
+      "science news": 0.3,
+      "local news": 0.2,
+      "environmental events": 0.1,
+      "public safety": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/salman-rushdie-recover_n_62f90817e4b0288b61a57374",
+    "tags": {
+      "assault": 0.9,
+      "violence": 0.9,
+      "recovery": 0.8,
+      "injury": 0.8,
+      "health": 0.8,
+      "celebrity": 0.7,
+      "author": 0.7,
+      "public figure": 0.7,
+      "safety": 0.6,
+      "media": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/fish-dead-uc-california-davis_n_62f81d09e4b095e78880f0e5",
+    "tags": {
+      "environmental disaster": 0.9,
+      "animal welfare": 0.8,
+      "responsibility": 0.8,
+      "research center": 0.7,
+      "university investigation": 0.6,
+      "ecological impact": 0.5,
+      "conservation": 0.4,
+      "wildlife preservation": 0.3,
+      "scientific inquiry": 0.2,
+      "natural disaster": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/parents-arrested-arizona-school-lockdown_n_62f71988e4b0ab35e0b338e8",
+    "tags": {
+      "school safety": 0.9,
+      "parental involvement": 0.8,
+      "law enforcement": 0.7,
+      "emergency response": 0.6,
+      "child protection": 0.5,
+      "community crisis": 0.4,
+      "parental behavior": 0.3,
+      "school administration": 0.2,
+      "public safety": 0.1,
+      "conflict resolution": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/kyrsten-sinema-campaign-donations_n_62f7c515e4b0526eaeeb1df9",
+    "tags": {
+      "political influence": 0.9,
+      "campaign finance": 0.8,
+      "democracy and governance": 0.8,
+      "conflict of interest": 0.7,
+      "political corruption": 0.6,
+      "economic power": 0.5,
+      "government accountability": 0.4,
+      "corporate influence": 0.3,
+      "financial regulation": 0.2,
+      "political ethics": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/nfl-player-panthers-stops-fight_n_62f749dde4b0ab35e0b34afc",
+    "tags": {
+      "sportsmanship": 0.9,
+      "community engagement": 0.8,
+      "fan behavior": 0.7,
+      "nfl": 0.6,
+      "player involvement": 0.5,
+      "event management": 0.4,
+      "public safety": 0.3,
+      "team building": 0.2,
+      "fan culture": 0.1,
+      "community outreach": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/police-seek-motive-in-salman-rushdie-stabbing-as-author-remains-hospitalized_n_62f7ac8fe4b0288b61a4ee98",
+    "tags": {
+      "assault": 0.9,
+      "crime": 0.8,
+      "justice": 0.7,
+      "hospitalization": 0.6,
+      "author": 0.5,
+      "celebrity": 0.4,
+      "new jersey": 0.3,
+      "law enforcement": 0.2,
+      "investigation": 0.1,
+      "public figure": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/bc-eu-poland-germany-polluted-river_n_62f7bbdce4b0ab35e0b36f5a",
+    "tags": {
+      "environmental disaster": 0.9,
+      "chemical contamination": 0.9,
+      "water pollution": 0.8,
+      "ecosystem health": 0.8,
+      "public health concerns": 0.8,
+      "crisis management": 0.8,
+      "government response": 0.7,
+      "natural resource management": 0.7,
+      "investigation and analysis": 0.7,
+      "government accountability": 0.6
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/deshuan-watson-apologize-to-women-ive-impacted_n_62f6e154e4b0da517ef8ae9c",
+    "tags": {
+      "sexual misconduct": 0.9,
+      "consent": 0.9,
+      "apology": 0.8,
+      "power dynamics": 0.8,
+      "emotional impact": 0.8,
+      "personal responsibility": 0.7,
+      "accountability": 0.7,
+      "professional athletes": 0.6,
+      "public figures": 0.6,
+      "social justice": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/over-2-billion-announced-for-roads-bridges-bike-lanes-across-us_n_62f6140be4b0da517ef78267",
+    "tags": {
+      "infrastructure development": 0.9,
+      "transportation funding": 0.8,
+      "urban planning": 0.7,
+      "public spending": 0.6,
+      "government investment": 0.5,
+      "sustainability": 0.4,
+      "environmental impact": 0.3,
+      "community development": 0.2,
+      "economic growth": 0.1,
+      "policy making": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/polio-detected-in-nyc-sewage-suggesting-virus-circulating_n_62f66a1be4b0526eaeea4348",
+    "tags": {
+      "public health": 0.9,
+      "disease outbreak": 0.8,
+      "environmental health": 0.7,
+      "viral infections": 0.6,
+      "waterborne illness": 0.5,
+      "infectious disease": 0.4,
+      "health surveillance": 0.3,
+      "epidemiology": 0.2,
+      "medical research": 0.1,
+      "health policy": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/inflation-reduction-act-analysis_n_62f5bdcbe4b0288b61a325d0",
+    "tags": {
+      "economic policy": 0.9,
+      "government spending": 0.8,
+      "budget deficit": 0.7,
+      "inflation control": 0.6,
+      "economic impact": 0.5,
+      "government legislation": 0.4,
+      "fiscal responsibility": 0.3,
+      "economic uncertainty": 0.2,
+      "public finance": 0.1,
+      "policy effectiveness": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/cdc-covid-19-quarantine-social-distancing-rules_n_62f55ed7e4b0526eaee8fe8c",
+    "tags": {
+      "medical guidelines": 0.9,
+      "public health": 0.8,
+      "risk assessment": 0.8,
+      "pandemic management": 0.7,
+      "quarantine policies": 0.6,
+      "infection control": 0.5,
+      "healthcare regulations": 0.4,
+      "safety protocols": 0.3,
+      "social distancing": 0.2,
+      "epidemiology": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/wisconsin-police-wild-turkey-chase_n_62f4951ee4b0288b61a18acc",
+    "tags": {
+      "comedy of errors": 0.9,
+      "wildlife encounters": 0.8,
+      "everyday absurdity": 0.8,
+      "unconventional situations": 0.7,
+      "unexpected events": 0.7,
+      "law enforcement": 0.6,
+      "human-animal interactions": 0.6,
+      "animal behavior": 0.5,
+      "chases": 0.4,
+      "public spaces": 0.3
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/steve-martin-retirement-hints_n_62f49db3e4b0526eaee7b22b",
+    "tags": {
+      "entertainment industry": 0.8,
+      "television": 0.7,
+      "acting career": 0.6,
+      "awards and recognition": 0.5,
+      "legendary figures": 0.4,
+      "comedy": 0.3,
+      "pop culture": 0.2,
+      "career milestones": 0.1,
+      "celebrity news": 0.1,
+      "retirement": 0.05
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/united-states-missing-girl-new-hampshire_n_62f55349e4b045e6f6abcc27",
+    "tags": {
+      "child disappearance": 0.9,
+      "homicide investigation": 0.8,
+      "missing persons": 0.7,
+      "law enforcement": 0.6,
+      "crime and punishment": 0.5,
+      "investigation": 0.4,
+      "justice system": 0.3,
+      "child protection": 0.2,
+      "unsolved crimes": 0.1,
+      "social responsibility": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/us-unemployment-claims-rise_n_62f506ace4b045e6f6ab402c",
+    "tags": {
+      "economic uncertainty": 0.9,
+      "job market": 0.8,
+      "unemployment": 0.7,
+      "labor market trends": 0.6,
+      "economic indicators": 0.5,
+      "government statistics": 0.4,
+      "employment rates": 0.3,
+      "business and economy": 0.2,
+      "financial markets": 0.1,
+      "market volatility": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/gas-prices-dip-just-below-4_n_62f4bcd0e4b0da517ef5bbec",
+    "tags": {
+      "cost of living": 0.9,
+      "economic relief": 0.8,
+      "financial pressures": 0.8,
+      "inflation": 0.7,
+      "consumer spending": 0.6,
+      "price stability": 0.5,
+      "financial respite": 0.4,
+      "market trends": 0.3,
+      "economic indicators": 0.2,
+      "consumer behavior": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/carolyn-maloney-jerry-nadler-biden-2024_n_62f381ede4b001e175d911cc",
+    "tags": {
+      "election cycle": 0.8,
+      "political uncertainty": 0.7,
+      "party affiliation": 0.6,
+      "leadership": 0.5,
+      "reelection": 0.4,
+      "government": 0.3,
+      "partisan politics": 0.2,
+      "political strategy": 0.1,
+      "democrat party": 0.1,
+      "presidential politics": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/fx-justified-set-incendiary-device_n_62f33cf5e4b0db71d8cd4350",
+    "tags": {
+      "violence in media": 0.9,
+      "criminal activity": 0.8,
+      "public safety": 0.7,
+      "entertainment industry": 0.6,
+      "urban crime": 0.5,
+      "law enforcement": 0.4,
+      "media production": 0.3,
+      "community safety": 0.2,
+      "crime prevention": 0.1,
+      "social unrest": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/ex-twitter-staffer-charged-saudi-arabia_n_62f3a8cee4b0acf9d003b368",
+    "tags": {
+      "data breach": 0.8,
+      "government surveillance": 0.7,
+      "privacy violation": 0.6,
+      "corruption": 0.5,
+      "ethical dilemma": 0.4,
+      "accountability": 0.3,
+      "power dynamics": 0.2,
+      "information control": 0.1,
+      "trust": 0.05,
+      "accountability in technology": 0.01
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/stranded-whale-out-of-seine-river-to-be-moved-to-saltwater_n_62f37113e4b0acf9d0033e8e",
+    "tags": {
+      "animal welfare": 0.9,
+      "conservation": 0.8,
+      "environmental issues": 0.7,
+      "rescue operations": 0.6,
+      "wildlife protection": 0.5,
+      "marine life": 0.4,
+      "endangered species": 0.3,
+      "human impact": 0.2,
+      "ecological crisis": 0.1,
+      "animal health": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/united-states-sesame-place-training_n_62f41d20e4b045e6f6aa47eb",
+    "tags": {
+      "diversity and inclusion training": 0.8,
+      "workplace culture": 0.7,
+      "employee development": 0.6,
+      "corporate social responsibility": 0.5,
+      "lawsuit settlement": 0.4,
+      "workplace conflict resolution": 0.3,
+      "employee engagement": 0.2,
+      "business ethics": 0.1,
+      "social justice": 0.1,
+      "workplace morality": 0.05
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/kobe-bryant-crash-photos-lawsuit_n_62f3ad8de4b0acf9d003ba5b",
+    "tags": {
+      "grief and trauma": 0.9,
+      "loss and bereavement": 0.9,
+      "celebrity privacy": 0.8,
+      "online harassment": 0.7,
+      "mental health": 0.6,
+      "family dynamics": 0.5,
+      "legal proceedings": 0.4,
+      "public image": 0.3,
+      "fear and anxiety": 0.2,
+      "social media impact": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/justice-department-cant-say-more-about-mar-a-lago-raid_n_62f2a8ebe4b0f9d8c0213b04",
+    "tags": {
+      "political power dynamics": 0.8,
+      "government transparency": 0.7,
+      "government accountability": 0.7,
+      "executive privilege": 0.6,
+      "presidential privilege": 0.6,
+      "national security": 0.5,
+      "law enforcement": 0.4,
+      "legal discretion": 0.4,
+      "freedom of information": 0.3,
+      "constitutional rights": 0.2
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/giuliani-not-testifying-atlanta-trump-election-interference_n_62f25cb4e4b0133dd5b30763",
+    "tags": {
+      "election interference": 0.9,
+      "political scandal": 0.8,
+      "legal investigation": 0.7,
+      "government accountability": 0.6,
+      "political corruption": 0.5,
+      "law enforcement": 0.4,
+      "political power struggle": 0.3,
+      "public trust": 0.2,
+      "political accountability": 0.1,
+      "government transparency": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/idris-elba-on-jay-z-american-gangster_n_62f25360e4b0db71d8cc34e2",
+    "tags": {
+      "creative entrepreneurship": 0.8,
+      "music industry": 0.7,
+      "celebrity interviews": 0.6,
+      "collaboration": 0.5,
+      "artistic expression": 0.4,
+      "hustle and ambition": 0.3,
+      "film and music crossovers": 0.2,
+      "personal branding": 0.1,
+      "networking": 0.1,
+      "creative writing": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/judge-liv-golf-saudi-pga-tour_n_62f2e9dae4b0acf9d002c583",
+    "tags": {
+      "professional sports": 0.9,
+      "golf": 0.8,
+      "professional leagues": 0.7,
+      "competition": 0.6,
+      "rules and regulations": 0.5,
+      "professional athletes": 0.4,
+      "sports governance": 0.3,
+      "business and finance": 0.2,
+      "saudi arabia": 0.1,
+      "global sports": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/nfl-owners-denver-broncos_n_62f2b71fe4b0133dd5b3a77d",
+    "tags": {
+      "business acquisition": 0.9,
+      "sports industry": 0.8,
+      "record breaking": 0.8,
+      "finance and economics": 0.7,
+      "entrepreneurship": 0.6,
+      "leadership and management": 0.5,
+      "innovation and technology": 0.4,
+      "corporate governance": 0.3,
+      "philanthropy and giving": 0.2,
+      "family business": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/bc-us-narcotics-anonymous-shooting_n_62f2955ce4b0db71d8ccb4e9",
+    "tags": {
+      "domestic violence": 0.9,
+      "tragedy": 0.9,
+      "suicide": 0.8,
+      "mass shooting": 0.7,
+      "mental health": 0.6,
+      "trauma": 0.5,
+      "violence": 0.4,
+      "crime": 0.3,
+      "substance abuse": 0.2,
+      "emotional distress": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/trump-said-wounded-vets-in-military-parades-didnt-look-good-for-him-book_n_62f12ab8e4b0da5ec0f69062",
+    "tags": {
+      "disrespect for authority": 0.9,
+      "lack of empathy": 0.8,
+      "nationalism": 0.7,
+      "military and politics": 0.6,
+      "leadership qualities": 0.5,
+      "government accountability": 0.4,
+      "public perception": 0.3,
+      "personal ambition": 0.2,
+      "national pride": 0.1,
+      "diplomacy and foreign policy": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/lindsey-graham-marilyn-hassan_n_62f0dc75e4b0ecfe3f722a5e",
+    "tags": {
+      "political etiquette": 0.9,
+      "congressional behavior": 0.8,
+      "professionalism": 0.8,
+      "respect in politics": 0.7,
+      "government conduct": 0.6,
+      "political disputes": 0.5,
+      "leadership": 0.4,
+      "personal relationships in politics": 0.3,
+      "conflict resolution": 0.2,
+      "public image": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/albuquerque-volkswagen-suspect-muslim-shootings_n_62f150bde4b0da5ec0f6c579",
+    "tags": {
+      "religious violence": 0.9,
+      "murder investigation": 0.8,
+      "hate crime": 0.8,
+      "law enforcement": 0.7,
+      "justice system": 0.7,
+      "community safety": 0.6,
+      "crime prevention": 0.5,
+      "racial tension": 0.4,
+      "social unrest": 0.3,
+      "public trust": 0.2
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/bernie-sanders-child-tax-credit_n_62f14258e4b00f4cf23c8345",
+    "tags": {
+      "economic policy": 0.9,
+      "government spending": 0.8,
+      "child welfare": 0.8,
+      "fiscal policy": 0.8,
+      "taxation": 0.7,
+      "legislation": 0.7,
+      "bipartisanship": 0.6,
+      "political negotiation": 0.6,
+      "economic inequality": 0.5,
+      "social justice": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/how-to-hide-tan-lines_l_62e7edc2e4b09d14dc450969",
+    "tags": {
+      "beauty": 0.9,
+      "makeup": 0.9,
+      "cosmetics": 0.8,
+      "personal grooming": 0.8,
+      "self care": 0.7,
+      "body positivity": 0.7,
+      "body image": 0.6,
+      "self acceptance": 0.6,
+      "beauty standards": 0.5,
+      "confidence": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/57-votes-in-the-senate-private-equity-diabetics_n_62f14d26e4b09d09a2c60edb",
+    "tags": {
+      "inequality": 0.9,
+      "power dynamics": 0.8,
+      "systemic issues": 0.8,
+      "government inefficiency": 0.7,
+      "lobbying": 0.6,
+      "healthcare policy": 0.5,
+      "social justice": 0.4,
+      "politics": 0.3,
+      "economic inequality": 0.2,
+      "public policy": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/brad-pitts-bullet-train-pulls-into-station-with-301m_n_62f00489e4b0c550161b18c5",
+    "tags": {
+      "entertainment industry": 0.9,
+      "box office performance": 0.8,
+      "movie releases": 0.7,
+      "hollywood": 0.6,
+      "celebrity news": 0.5,
+      "brad pitt": 0.4,
+      "action movies": 0.3,
+      "romantic comedies": 0.2,
+      "film industry trends": 0.1,
+      "pop culture": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/ezra-miller-controversies-the-flash_n_62ef5649e4b09fecea4ead75",
+    "tags": {
+      "celebrity controversy": 0.8,
+      "movie industry": 0.7,
+      "release scheduling": 0.6,
+      "public image": 0.5,
+      "hollywood business": 0.4,
+      "actor behavior": 0.3,
+      "media coverage": 0.2,
+      "corporate decision making": 0.1,
+      "pop culture": 0.1,
+      "entertainment news": 0.05
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/biden-response-muslim-shootings-new-mexico_n_62f016bae4b0c550161b1f9b",
+    "tags": {
+      "religious tolerance": 0.9,
+      "community solidarity": 0.8,
+      "violence prevention": 0.7,
+      "racial profiling": 0.6,
+      "government response": 0.5,
+      "social justice": 0.4,
+      "cultural sensitivity": 0.3,
+      "law enforcement accountability": 0.2,
+      "community safety": 0.1,
+      "human rights": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/la-man-lightning-strike-white-house_n_62f00c34e4b0c550161b1b06",
+    "tags": {
+      "tragedy": 0.9,
+      "weather": 0.8,
+      "accidents": 0.8,
+      "death": 0.7,
+      "emergency": 0.6,
+      "united states": 0.5,
+      "government": 0.4,
+      "public space": 0.4,
+      "disaster": 0.3,
+      "randomness": 0.2
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/cuba-oil-facility-fire-lightning-strike_n_62ef2a1ee4b0c550161aba3c",
+    "tags": {
+      "disaster": 0.9,
+      "emergency": 0.8,
+      "fire": 0.7,
+      "accident": 0.6,
+      "injury": 0.5,
+      "crisis": 0.4,
+      "environmental": 0.3,
+      "infrastructure": 0.2,
+      "risk": 0.1,
+      "safety": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/eastern-kentucky-more-storms_n_62f00fc2e4b0da5ec0f582ae",
+    "tags": {
+      "disaster response": 0.9,
+      "natural disasters": 0.9,
+      "public safety": 0.9,
+      "weather forecasting": 0.8,
+      "environmental hazards": 0.8,
+      "flood management": 0.8,
+      "emergency preparedness": 0.7,
+      "risk assessment": 0.7,
+      "community resilience": 0.6,
+      "climate change": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/woody-harrelson-baby-poem_n_62ee89f0e4b0da5ec0f4fd20",
+    "tags": {
+      "celebrity culture": 0.9,
+      "social media": 0.8,
+      "famous lookalikes": 0.7,
+      "parenting": 0.6,
+      "family life": 0.5,
+      "internet fame": 0.4,
+      "pop culture": 0.3,
+      "identity": 0.2,
+      "public perception": 0.1,
+      "nostalgia": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/albuquerque-new-mexico-muslim-community-murders_n_62eed8a3e4b09d09a2c46755",
+    "tags": {
+      "community safety": 0.9,
+      "safety and security": 0.9,
+      "crime and justice": 0.8,
+      "law enforcement": 0.8,
+      "vulnerability and protection": 0.8,
+      "diversity and inclusion": 0.7,
+      "social cohesion": 0.7,
+      "community relations": 0.7,
+      "public health and wellness": 0.6,
+      "terrorism and extremism": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/canadian-man-billboard-string-cheese_n_62ee0328e4b0da5ec0f4bc1d",
+    "tags": {
+      "unique solutions": 0.9,
+      "waste reduction": 0.8,
+      "food waste": 0.8,
+      "creative problem-solving": 0.8,
+      "environmental awareness": 0.7,
+      "sustainability": 0.7,
+      "consumerism": 0.6,
+      "community involvement": 0.6,
+      "community engagement": 0.5,
+      "public art": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/zachary-alligator-new-york_n_62ee9555e4b09fecea4e863b",
+    "tags": {
+      "animal welfare": 0.8,
+      "animal sanctuaries": 0.8,
+      "wildlife conservation": 0.7,
+      "rehabilitation and sanctuary": 0.7,
+      "unconventional pets": 0.6,
+      "unique situations": 0.6,
+      "responsible pet ownership": 0.5,
+      "pet care and management": 0.5,
+      "human-animal relationships": 0.4,
+      "unexpected surprises": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/prescription-drug-medicare-part-d-cap_n_62ed95cde4b09fecea4e24d4",
+    "tags": {
+      "healthcare accessibility": 0.9,
+      "medication affordability": 0.8,
+      "health policy": 0.7,
+      "public health": 0.6,
+      "social welfare": 0.5,
+      "economic inequality": 0.4,
+      "government intervention": 0.3,
+      "social justice": 0.2,
+      "health disparities": 0.1,
+      "public finance": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/gop-senate-trump_n_62ed7803e4b09fecea4e1124",
+    "tags": {
+      "political loyalty": 0.9,
+      "partisan politics": 0.9,
+      "criminal justice system": 0.8,
+      "government accountability": 0.8,
+      "leadership integrity": 0.8,
+      "political corruption": 0.8,
+      "election interference": 0.7,
+      "power dynamics": 0.7,
+      "judicial system": 0.7,
+      "national interest": 0.6
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/cpac-fake-jail-jan-6-rioter_n_62ed419fe4b0c5501619eace",
+    "tags": {
+      "emotional distress": 0.9,
+      "jan 6 riot": 0.8,
+      "mental health": 0.8,
+      "prison life": 0.7,
+      "trauma": 0.6,
+      "law enforcement": 0.5,
+      "punishment": 0.4,
+      "society": 0.3,
+      "human behavior": 0.2,
+      "justice": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/windsor-hills-car-crash_n_62ed3676e4b0da5ec0f444c6",
+    "tags": {
+      "traffic safety": 0.8,
+      "accidents": 0.7,
+      "road fatalities": 0.6,
+      "emergency response": 0.5,
+      "public health": 0.4,
+      "community impact": 0.3,
+      "infant mortality": 0.2,
+      "pregnancy complications": 0.1,
+      "law enforcement": 0.1,
+      "urban infrastructure": 0.05
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/trevor-noah-vladimir-putin_n_62ec8fbde4b09fecea4ca374",
+    "tags": {
+      "geopolitics": 0.9,
+      "international relations": 0.8,
+      "politics": 0.7,
+      "conflict resolution": 0.6,
+      "global affairs": 0.5,
+      "leadership": 0.4,
+      "diplomacy": 0.3,
+      "global politics": 0.2,
+      "international conflict": 0.1,
+      "global governance": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/french-scientist-star-photo-really-chorizo_n_62ed5d09e4b09d09a2c3c42c",
+    "tags": {
+      "humor": 0.9,
+      "absurdity": 0.9,
+      "science_misconceptions": 0.8,
+      "internet_trolling": 0.7,
+      "food_puns": 0.6,
+      "celestial_bodies": 0.5,
+      "language_play": 0.4,
+      "social_media": 0.3,
+      "parody": 0.2,
+      "popular_culture": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/fertility-treatment-debt-ivf-cost_l_62e00b8ae4b000da24053610",
+    "tags": {
+      "financial planning": 0.8,
+      "debt management": 0.8,
+      "family planning": 0.7,
+      "personal finance": 0.7,
+      "family budgeting": 0.7,
+      "medical expenses": 0.6,
+      "healthcare costs": 0.6,
+      "life planning": 0.6,
+      "infertility": 0.5,
+      "stress management": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/fbi-arrests-lousville-cops-breonna-taylor_n_62ebd8abe4b0ecfe3f6e79f7",
+    "tags": {
+      "police accountability": 0.9,
+      "racial justice": 0.8,
+      "law enforcement reform": 0.7,
+      "false information": 0.6,
+      "search warrants": 0.5,
+      "police brutality": 0.4,
+      "investigation": 0.3,
+      "justice system": 0.2,
+      "police misconduct": 0.1,
+      "community trust": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/stacey-truman-cafeteria-worker_l_62e28e7de4b07f83766cc389",
+    "tags": {
+      "unsung heroes": 0.9,
+      "behind-the-scenes": 0.9,
+      "unrecognized contributions": 0.9,
+      "workplace culture": 0.8,
+      "hidden labor": 0.8,
+      "employee experience": 0.8,
+      "employee appreciation": 0.7,
+      "school support": 0.7,
+      "job expectations": 0.6,
+      "job satisfaction": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/whats-going-on-with-hbo-max-discovery-merger_n_62ec1ae3e4b0c5501618704b",
+    "tags": {
+      "streaming services": 0.9,
+      "media industry": 0.8,
+      "uncertainty": 0.8,
+      "subscription services": 0.7,
+      "future": 0.7,
+      "technology": 0.6,
+      "change": 0.6,
+      "business": 0.5,
+      "concern": 0.5,
+      "disruption": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/john-legend-kanye-west-friendship_n_62ebf21de4b0c55016183ba4",
+    "tags": {
+      "celebrity politics": 0.9,
+      "public figure relationships": 0.9,
+      "friendship dynamics": 0.8,
+      "personal values conflict": 0.8,
+      "political polarization": 0.8,
+      "social media influence": 0.7,
+      "celebrity culture": 0.7,
+      "social identity": 0.6,
+      "personal boundaries": 0.6,
+      "social norms": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/demi-lovato-appears-to-call-out-ex-wilmer-valderrama-age-gap-new-song-consent_n_62ebf0e7e4b09d09a2c1f056",
+    "tags": {
+      "celebrity relationships": 0.8,
+      "age gap": 0.7,
+      "public feuds": 0.6,
+      "music industry": 0.5,
+      "personal struggles": 0.4,
+      "social commentary": 0.3,
+      "pop culture": 0.2,
+      "mental health": 0.1,
+      "fame and identity": 0.1,
+      "social commentary in music": 0.05
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/tierra-amarilla-sinkhole_n_62ea6cd1e4b09d09a2bfb524",
+    "tags": {
+      "environmental disasters": 0.9,
+      "natural resources": 0.8,
+      "geological events": 0.8,
+      "mining industry": 0.7,
+      "disaster response": 0.7,
+      "land ownership": 0.6,
+      "economic impact": 0.6,
+      "international business": 0.5,
+      "government regulation": 0.5,
+      "risk management": 0.4
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/selena-gomez-developing-reboot-of-80s-classic-working-girl_n_62ea8037e4b0da5ec0f086d3",
+    "tags": {
+      "hollywood reboots": 0.9,
+      "entertainment industry": 0.8,
+      "nostalgia": 0.7,
+      "women in film": 0.6,
+      "classic movies": 0.5,
+      "pop culture": 0.4,
+      "celebrity news": 0.3,
+      "film industry": 0.2,
+      "cultural revival": 0.1,
+      "influence of media": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/iceland-volcano-erupts-airport_n_62eaa5d1e4b0da5ec0f0c8ba",
+    "tags": {
+      "natural disasters": 0.9,
+      "volcanic activity": 0.8,
+      "geological events": 0.7,
+      "emergency response": 0.6,
+      "travel advisories": 0.5,
+      "icelandic geography": 0.4,
+      "aviation safety": 0.3,
+      "environmental hazards": 0.2,
+      "risk management": 0.1,
+      "public safety": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/paul-pelosi-dui-plea_n_62eaac2ce4b09d09a2c02cb0",
+    "tags": {
+      "celebrity news": 0.9,
+      "current events": 0.9,
+      "law and order": 0.8,
+      "driving under the influence": 0.7,
+      "california news": 0.6,
+      "politics": 0.5,
+      "crime and punishment": 0.4,
+      "public figures": 0.3,
+      "justice system": 0.2,
+      "traffic and transportation": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/ana-de-armas-marilyn-monroe-blonde-brad-pitt_n_62ea9f12e4b00f4cf236a0f0",
+    "tags": {
+      "celebrity culture": 0.9,
+      "social media backlash": 0.8,
+      "hollywood gossip": 0.7,
+      "defending others": 0.6,
+      "public perception": 0.5,
+      "fame and privilege": 0.4,
+      "social media impact": 0.3,
+      "celebrity relationships": 0.2,
+      "pop culture news": 0.1,
+      "entertainment industry": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/matthew-koma-calls-out-candace-cameron-bure-tiktok-springsteen_n_62e827d0e4b07f837672082c",
+    "tags": {
+      "celebrity feud": 0.9,
+      "social media criticism": 0.8,
+      "patriotism": 0.7,
+      "pop culture": 0.6,
+      "entertainment news": 0.5,
+      "celebrity culture": 0.4,
+      "social commentary": 0.3,
+      "tiktok": 0.2,
+      "reality tv": 0.1,
+      "public perception": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/sandy-hook-parent-testifies-alex-jones-apologies-are-worthless_n_62e9441ee4b07f83767377c5",
+    "tags": {
+      "conspiracy theories": 0.9,
+      "responsibility and accountability": 0.9,
+      "parental grief": 0.8,
+      "mass shootings": 0.8,
+      "emotional trauma": 0.8,
+      "justice and accountability": 0.8,
+      "defamation": 0.7,
+      "truth and falsehood": 0.7,
+      "public figures and reputation": 0.7,
+      "media manipulation": 0.6
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/guard-cat-hailed-as-hero_n_62e9a515e4b00f4cf2352a6f",
+    "tags": {
+      "home security": 0.9,
+      "animal heroism": 0.8,
+      "unconventional bravery": 0.8,
+      "community protection": 0.7,
+      "pet loyalty": 0.6,
+      "crime prevention": 0.5,
+      "unexpected heroes": 0.4,
+      "neighborhood watch": 0.3,
+      "animal behavior": 0.2,
+      "home defense": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/senate-republicans-veterans-health-bill-pact-act_n_62e97e2ee4b09d14dc4731d3",
+    "tags": {
+      "healthcare reform": 0.9,
+      "veterans affairs": 0.8,
+      "government legislation": 0.7,
+      "public policy": 0.6,
+      "social welfare": 0.5,
+      "military service": 0.4,
+      "health risks": 0.3,
+      "policy compromise": 0.2,
+      "legislative process": 0.1,
+      "public health": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/university-of-west-georgia-professor-charged-with-murder-of-incoming-freshman_n_62e95992e4b09d14dc470a05",
+    "tags": {
+      "violence": 0.9,
+      "crime": 0.8,
+      "loss": 0.8,
+      "tragedy": 0.7,
+      "youth": 0.6,
+      "education": 0.5,
+      "justice": 0.4,
+      "murder": 0.3,
+      "university": 0.2,
+      "safety": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/dan-giusti-voices-in-food_l_62d82e4ae4b000da23faf94b",
+    "tags": {
+      "food systems": 0.9,
+      "social impact": 0.8,
+      "community development": 0.8,
+      "food accessibility": 0.8,
+      "education": 0.7,
+      "non-profit work": 0.7,
+      "institutional change": 0.7,
+      "sustainability": 0.6,
+      "personal fulfillment": 0.6,
+      "leadership": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/rusty-bowers-donald-trump-arizona-gop_n_62e7a6fbe4b00fd8d8411100",
+    "tags": {
+      "political opposition": 0.9,
+      "election interference": 0.8,
+      "government investigation": 0.7,
+      "political power struggle": 0.6,
+      "state politics": 0.5,
+      "leadership role": 0.4,
+      "political accountability": 0.3,
+      "political corruption": 0.2,
+      "government transparency": 0.1,
+      "public service": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/yolanda-hadid-depression-lyme_n_62e7fa39e4b09d14dc452884",
+    "tags": {
+      "mental health awareness": 0.9,
+      "celebrity personalities": 0.8,
+      "depression stigma": 0.8,
+      "personal struggles": 0.8,
+      "social media impact": 0.7,
+      "relationship dynamics": 0.7,
+      "celebrity wellness": 0.7,
+      "public image": 0.6,
+      "social media influence": 0.6,
+      "lyme disease": 0.5
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/suraj-patel-new-york-12-primary-tightening_n_62e6b5a3e4b09d14dc439816",
+    "tags": {
+      "political primaries": 0.9,
+      "election campaigns": 0.8,
+      "political rivalries": 0.7,
+      "new york politics": 0.6,
+      "democratic party": 0.5,
+      "congressional elections": 0.4,
+      "political competition": 0.3,
+      "voting and elections": 0.2,
+      "government and politics": 0.1,
+      "political leadership": 0.0
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/chris-rock-no-plans-talk-will-smith_n_62e8478ee4b0c60a566b25da",
+    "tags": {
+      "celebrity drama": 0.9,
+      "public feud": 0.8,
+      "relationship dynamics": 0.8,
+      "personal issues": 0.7,
+      "conflict resolution": 0.6,
+      "reconciliation": 0.5,
+      "communication breakdown": 0.4,
+      "emotional well-being": 0.3,
+      "social perception": 0.2,
+      "media attention": 0.1
+    }
+  },
+  {
+    "link": "https://www.huffpost.com/entry/micro-transitons-anxiety_l_62ceed69e4b0e6251b37fe91",
+    "tags": {
+      "anxiety management": 0.9,
+      "stress reduction": 0.8,
+      "mental health": 0.8,
+      "time management": 0.7,
+      "productivity": 0.6,
+      "self care": 0.5,
+      "personal development": 0.4,
+      "emotional intelligence": 0.3,
+      "wellness": 0.2,
+      "mindfulness": 0.1
+    }
+  }
+]
